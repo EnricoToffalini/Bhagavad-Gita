@@ -1722,7 +1722,7 @@ When one is attached neither to the objects of sense nor to actions, having reno
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.5} \textit{(Krishna)}\par
-Let one lift one's own self by the self; let one not drag the self down. For the self alone is the friend of self, and the self alone is the enemy of the self.
+Let one lift one's own self by the self; let one not drag the self down. For the self alone is the friend of self, but the self alone is also the enemy of the self.
 \par\endgroup
 \vspace{0.42em}
 
@@ -1736,7 +1736,7 @@ For one who whose self has been conquered by the self, the self is a friend; but
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.7} \textit{(Krishna)}\par
-For one who has mastered the self and is at peace, the supreme Atman [Self] stays steady, alike in cold and heat, pleasure and pain, honor and dishonor.
+For one who has mastered the self and is at peace, the supreme Atman stays steady, alike in cold and heat, pleasure and pain, honor and dishonor.
 \par\endgroup
 \vspace{0.42em}
 

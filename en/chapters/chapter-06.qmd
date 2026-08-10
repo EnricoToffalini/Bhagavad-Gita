@@ -84,7 +84,7 @@ Then run:
 <a class="ref" href="#v-6-5">6.5</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Let one lift one&#x27;s own self by the self; let one not drag the self down. For the self alone is the friend of self, and the self alone is the enemy of the self.</p>
+<p class="translation translation-en" data-lang="en">Let one lift one&#x27;s own self by the self; let one not drag the self down. For the self alone is the friend of self, but the self alone is also the enemy of the self.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">उद्धरेदात्मनात्मानं नात्मानमवसादयेत् ।<br>
@@ -110,7 +110,7 @@ Then run:
 <a class="ref" href="#v-6-7">6.7</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">For one who has mastered the self and is at peace, the supreme <span class="glossary-term" tabindex="0" data-gloss="True Self, Soul, or inner principle; kept distinct from ordinary ego or individual personality." aria-label="True Self, Soul, or inner principle; kept distinct from ordinary ego or individual personality." title="True Self, Soul, or inner principle; kept distinct from ordinary ego or individual personality." data-glossary-id="atman">Atman</span> [Self] stays steady, alike in cold and heat, pleasure and pain, honor and dishonor.</p>
+<p class="translation translation-en" data-lang="en">For one who has mastered the self and is at peace, the supreme <span class="glossary-term" tabindex="0" data-gloss="True Self, Soul, or inner principle; kept distinct from ordinary ego or individual personality." aria-label="True Self, Soul, or inner principle; kept distinct from ordinary ego or individual personality." title="True Self, Soul, or inner principle; kept distinct from ordinary ego or individual personality." data-glossary-id="atman">Atman</span> stays steady, alike in cold and heat, pleasure and pain, honor and dishonor.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">जितात्मनः प्रशान्तस्य परमात्मा समाहितः ।<br>
