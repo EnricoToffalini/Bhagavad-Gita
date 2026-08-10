@@ -901,7 +901,7 @@ Con queste parole apparentemente contraddittorie confondi il mio intelletto. Dim
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{3.3} \textit{(Krishna)}\par
-In questo mondo, o Arjuna senza colpa, in antico ho insegnato un duplice cammino: lo yoga della conoscenza per i seguaci del Sankhya e lo yoga dell'azione per gli yogin.
+In questo mondo, o Arjuna senza colpa, da tempo ho insegnato un duplice cammino: lo yoga della conoscenza per i seguaci del Sankhya e lo yoga dell'azione per gli yogin.
 \par\endgroup
 \vspace{0.42em}
 
@@ -1722,28 +1722,28 @@ Quando non si è attaccati né agli oggetti dei sensi né alle azioni, e si è r
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.5} \textit{(Krishna)}\par
-Ognuno elevi se stesso con le proprie forze e non si lasci cadere: ciascuno è infatti amico di se stesso, ma anche nemico di se stesso.
+Si elevi il proprio sé attraverso il sé; non si lasci il sé sprofondare. Perché il sé è amico del sé, ed esso stesso è il proprio nemico.
 \par\endgroup
 \vspace{0.42em}
 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.6} \textit{(Krishna)}\par
-Per chi ha dominato se stesso con le proprie forze, il sé è un amico; ma per chi non si è padroneggiato, il sé rimane ostile come un nemico.
+Per chi ha dominato il proprio sé attraverso il sé, esso è un amico; ma per chi non ha padroneggiato il sé, esso rimane ostile come un nemico.
 \par\endgroup
 \vspace{0.42em}
 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.7} \textit{(Krishna)}\par
-Per chi ha dominato se stesso ed è in pace, l'Atman supremo resta saldo, imperturbabile nel freddo e nel caldo, nel piacere e nel dolore, nell'onore e nel disonore.
+Per chi ha dominato il sé ed è in pace, l'Atman [il Sé] supremo resta saldo, imperturbabile nel freddo e nel caldo, nel piacere e nel dolore, nell'onore e nel disonore.
 \par\endgroup
 \vspace{0.42em}
 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.8} \textit{(Krishna)}\par
-Lo yogin appagato dalla conoscenza e dalla realizzazione, incrollabile, con i sensi soggiogati, per il quale una zolla, una pietra e l’oro sono la stessa cosa, è detto saldo nello yoga.
+Lo yogin appagato dalla conoscenza e dalla realizzazione, incrollabile, con i sensi soggiogati, per il quale una zolla di terra, una pietra e dell’oro sono la stessa cosa, è detto saldo nello yoga.
 \par\endgroup
 \vspace{0.42em}
 
@@ -1757,7 +1757,7 @@ Colui che mantiene un animo uguale verso il benevolo, l'amico e il nemico, verso
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.10} \textit{(Krishna)}\par
-Lo yogin si disciplini costantemente, ritirato in solitudine, con la mente e il sé dominati, libero da bramosia e da possessi.
+Lo yogin disciplini l'atman costantemente, ritirato in solitudine, con la mente e l'atman dominati, libero da bramosia e da possessi.
 \par\endgroup
 \vspace{0.42em}
 
@@ -1771,7 +1771,7 @@ Dopo aver preparato per sé un seggio stabile in un luogo puro, né troppo alto 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.12} \textit{(Krishna)}\par
-là, concentrando la mente in un solo punto e disciplinando l'attività della mente e dei sensi, seduto su quel seggio pratichi lo yoga per purificare il sé.
+là, concentrando la mente in un solo punto e disciplinando l'attività della mente e dei sensi, seduto su quel seggio pratichi lo yoga per purificare l'atman.
 \par\endgroup
 \vspace{0.42em}
 
@@ -1806,7 +1806,7 @@ Lo yoga non è per chi mangia troppo, né per chi non mangia affatto, né per ch
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.17} \textit{(Krishna)}\par
-Per chi è misurato nel cibo e nello svago, nelle azioni, nel sonno e nella veglia, lo yoga pone fine al dolore.
+Per chi è misurato nel cibo e nello svago, nelle azioni, nel sonno e nella veglia, lo yoga pone fine all'afflizione.
 \par\endgroup
 \vspace{0.42em}
 
@@ -1834,7 +1834,7 @@ Quando la mente, trattenuta dalla pratica dello yoga, giunge a quietarsi e, cont
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.21} \textit{(Krishna)}\par
-quando si conosce quella felicità sconfinata, colta dall'intelletto e al di là dei sensi, e, stabiliti in essa, non ci si allontana mai dalla verità;
+quando si conosce quella felicità sconfinata, afferrata dalla comprensione [buddhi] e al di là dei sensi, e, stabiliti in essa, non ci si allontana mai dalla verità;
 \par\endgroup
 \vspace{0.42em}
 
@@ -1911,7 +1911,7 @@ Lo yogin che, saldo nella visione dell'unità, mi venera come colui che dimora i
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.32} \textit{(Krishna)}\par
-Colui che, riconoscendo negli altri ciò che riconosce in se stesso, vede ovunque la medesima realtà, tanto nel piacere quanto nel dolore, è ritenuto il più alto degli yogin, Arjuna.
+Colui che, per analogia con il sé, vede ovunque la medesima realtà, sia nella felicità che nella sofferenza, è considerato il più alto degli yogin, Arjuna.
 \par\endgroup
 \vspace{0.42em}
 
@@ -1960,7 +1960,7 @@ Caduto da entrambe le vie, non perisce forse come una nube dispersa, senza soste
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.39} \textit{(Arjuna)}\par
-Tu solo, o Krishna, puoi dissipare interamente questo mio dubbio; nessun altro, infatti, è in grado di rimuoverlo.
+Tu solo, o Krishna, puoi dissipare interamente questo mio dubbio; nessun altro, infatti, sarebbe in grado di toglierlo.
 \par\endgroup
 \vspace{0.42em}
 

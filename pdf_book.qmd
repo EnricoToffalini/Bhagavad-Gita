@@ -901,7 +901,7 @@ With these seemingly conflicting words you bewilder my understanding. Tell me de
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{3.3} \textit{(Krishna)}\par
-In this world, O blameless one, a twofold path was taught by me of old: the yoga of knowledge for the followers of Sankhya, and the yoga of action for the yogins.
+In this world, O blameless one, I have long taught a twofold path: the yoga of knowledge for the followers of Sankhya, and the yoga of action for the yogins.
 \par\endgroup
 \vspace{0.42em}
 
@@ -1722,21 +1722,21 @@ When one is attached neither to the objects of sense nor to actions, having reno
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.5} \textit{(Krishna)}\par
-Let one lift oneself by oneself; let one not drag oneself down. For oneself alone is one's friend, and oneself alone one's enemy.
+Let one lift one's own self by the self; let one not drag the self down. For the self alone is the friend of self, and the self alone is the enemy of the self.
 \par\endgroup
 \vspace{0.42em}
 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.6} \textit{(Krishna)}\par
-For one who has conquered himself by himself, the self is a friend to the self; but for one who has not mastered himself, the self stays hostile, like an enemy.
+For one who whose self has been conquered by the self, the self is a friend; but for one who has not mastered the self, the self remains hostile, like an enemy.
 \par\endgroup
 \vspace{0.42em}
 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.7} \textit{(Krishna)}\par
-For one who has mastered himself and is at peace, the supreme Atman stays steady, alike in cold and heat, pleasure and pain, honor and dishonor.
+For one who has mastered the self and is at peace, the supreme Atman [Self] stays steady, alike in cold and heat, pleasure and pain, honor and dishonor.
 \par\endgroup
 \vspace{0.42em}
 
@@ -1757,7 +1757,7 @@ He who is even-minded toward well-wisher, friend, and foe, toward the neutral an
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.10} \textit{(Krishna)}\par
-Let the yogin discipline himself constantly, staying in solitude, alone, his mind and self controlled, free of longing and of possessions.
+Let the yogin discipline the atman constantly, staying in solitude, alone, his mind and the self controlled, free of longing and of possessions.
 \par\endgroup
 \vspace{0.42em}
 
@@ -1771,7 +1771,7 @@ Having set up a firm seat for himself in a clean place, neither too high nor too
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.12} \textit{(Krishna)}\par
-there, making the mind one-pointed, the workings of mind and senses checked, seated on that seat, let him practice yoga to purify the self.
+there, making the mind one-pointed, the workings of mind and senses checked, seated on that seat, let him practice yoga to purify the atman.
 \par\endgroup
 \vspace{0.42em}
 
@@ -1834,7 +1834,7 @@ When the mind, restrained by the practice of yoga, comes to rest, and seeing the
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.21} \textit{(Krishna)}\par
-when one knows that boundless happiness, grasped by the understanding and beyond the senses, and, established in it, never strays from the truth;
+when one knows that boundless happiness, grasped by the understanding [buddhi] and beyond the senses, and, established in it, never strays from the truth;
 \par\endgroup
 \vspace{0.42em}
 
@@ -1911,14 +1911,14 @@ The yogin who, established in oneness, worships me as dwelling in all beings abi
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.32} \textit{(Krishna)}\par
-He who sees by analogy with himself the same everywhere, Arjuna, whether in pleasure or in pain, is held to be the highest yogin.
+He who, by analogy with the self, sees the same everywhere, Arjuna, whether in happiness or in suffering, is regarded as the highest yogin.
 \par\endgroup
 \vspace{0.42em}
 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.33} \textit{(Arjuna)}\par
-This yoga of evenness you have taught, O Madhusudana, I do not see how it can stand firm, because the mind is so restless.
+This yoga of equanimity you have taught, O Madhusudana, I do not see how it can stand firm, because the mind is so restless.
 \par\endgroup
 \vspace{0.42em}
 
