@@ -18,7 +18,7 @@ import xml.etree.ElementTree as ET
 
 
 ROOT = Path(__file__).resolve().parents[1]
-SITE_URL = 'https://enricotoffalini.github.io/BhagavadGita/'
+SITE_URL = 'https://enricotoffalini.github.io/Bhagavad-Gita/'
 SITEMAP_NS = 'http://www.sitemaps.org/schemas/sitemap/0.9'
 
 

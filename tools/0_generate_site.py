@@ -44,7 +44,7 @@ Then run:
 '''
 
 SITE_TITLE = 'Bhagavad Gita'
-SITE_URL = 'https://enricotoffalini.github.io/BhagavadGita/'
+SITE_URL = 'https://enricotoffalini.github.io/Bhagavad-Gita/'
 TRANSLATOR = 'Enrico Toffalini'
 SITE_TITLE_SANSKRIT = 'भगवद्गीता'
 

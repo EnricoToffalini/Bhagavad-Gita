@@ -14,7 +14,7 @@ if errorlevel 1 (
 
 for /f "delims=" %%P in ('python -c "import sys; print(sys.executable)"') do set "QUARTO_PYTHON=%%P"
 
-where quarto >nul 2>nul
+quarto --version >nul 2>nul
 if errorlevel 1 (
     echo ERROR: Quarto was not found in PATH.
     pause
