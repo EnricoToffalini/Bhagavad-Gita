@@ -1,5 +1,5 @@
 ---
-title: "Capitolo 15 - Purushottama Yoga"
+title: "Capitolo 15 – Purushottama Yoga"
 lang: it
 pagetitle: "Capitolo 15 — Purushottama Yoga — Bhagavad Gita | Enrico Toffalini"
 title-prefix: ""
@@ -75,7 +75,7 @@ Then run:
 <a class="ref" href="#v-15-4">15.4</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">si deve poi cercare quel luogo dal quale, una volta giunti, non si ritorna, con la risoluzione: «Mi rifugio in quella persona primordiale dalla quale ebbe origine l&#x27;antico processo della manifestazione».</p>
+<p class="translation translation-it" data-lang="it">si deve poi cercare quel luogo dal quale, una volta giunti, non si ritorna, con la risoluzione: «Mi rifugio in quella persona primordiale dalla quale ebbe origine l’antico processo della manifestazione».</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">ततः पदं तत्परिमार्गितव्यं<br>
@@ -90,7 +90,7 @@ Then run:
 <a class="ref" href="#v-15-5">15.5</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Liberi da orgoglio e illusione, vincitori del male dell&#x27;attaccamento, sempre dimoranti nel sé, con i desideri acquietati e sciolti dalle coppie di opposti chiamate piacere e dolore, coloro che sono liberi dall&#x27;illusione raggiungono quel luogo imperituro.</p>
+<p class="translation translation-it" data-lang="it">Liberi da orgoglio e illusione, vincitori del male dell’attaccamento, sempre dimoranti nel sé, con i desideri acquietati e sciolti dalle coppie di opposti chiamate piacere e dolore, coloro che non sono più smarriti raggiungono quel luogo imperituro.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">निर्मानमोहा जितसङ्गदोषा<br>
@@ -170,7 +170,7 @@ Then run:
 <a class="ref" href="#v-15-11">15.11</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Gli <span class="glossary-term" tabindex="0" data-gloss="Praticante dello yoga" aria-label="Praticante dello yoga" title="Praticante dello yoga" data-glossary-id="yogin">yogin</span> che si sforzano lo vedono presente nel sé; ma coloro che sono privi di discernimento e non hanno disciplinato se stessi non lo vedono, per quanto si sforzino.</p>
+<p class="translation translation-it" data-lang="it">Gli <span class="glossary-term" tabindex="0" data-gloss="Praticante dello yoga." aria-label="Praticante dello yoga." title="Praticante dello yoga." data-glossary-id="yogin">yogin</span> che si sforzano lo vedono presente nel sé; ma coloro che sono privi di discernimento e non hanno disciplinato se stessi non lo vedono, per quanto si sforzino.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">यतन्तो योगिनश्चैनं पश्यन्त्यात्मन्यवस्थितम् ।<br>
@@ -237,7 +237,7 @@ Then run:
 <a class="ref" href="#v-15-16">15.16</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Vi sono nel mondo due <span class="glossary-term" tabindex="0" data-gloss="Persona, spirito o principio cosciente; il significato varia a seconda del passo." aria-label="Persona, spirito o principio cosciente; il significato varia a seconda del passo." title="Persona, spirito o principio cosciente; il significato varia a seconda del passo." data-glossary-id="purusha">purusha</span>: il perituro e l&#x27;imperituro; tutti gli esseri costituiscono il perituro, mentre l’immutabile è detto imperituro.</p>
+<p class="translation translation-it" data-lang="it">Vi sono nel mondo due <span class="glossary-term" tabindex="0" data-gloss="Persona, spirito o principio cosciente; il significato varia a seconda del passo." aria-label="Persona, spirito o principio cosciente; il significato varia a seconda del passo." title="Persona, spirito o principio cosciente; il significato varia a seconda del passo." data-glossary-id="purusha">purusha</span>: il perituro e l’imperituro; tutti gli esseri costituiscono il perituro, mentre l’immutabile è detto imperituro.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">द्वाविमौ पुरुषौ लोके क्षरश्चाक्षर एव च ।<br>
@@ -250,7 +250,7 @@ Then run:
 <a class="ref" href="#v-15-17">15.17</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Ma vi è un altro <span class="glossary-term" tabindex="0" data-gloss="Persona, spirito o principio cosciente; il significato varia a seconda del passo." aria-label="Persona, spirito o principio cosciente; il significato varia a seconda del passo." title="Persona, spirito o principio cosciente; il significato varia a seconda del passo." data-glossary-id="purusha">purusha</span>, il supremo, chiamato <span class="glossary-term" tabindex="0" data-gloss="Vero Sé, anima o principio interiore; tenuto distinto dall&#x27;ego ordinario e dalla personalità individuale." aria-label="Vero Sé, anima o principio interiore; tenuto distinto dall&#x27;ego ordinario e dalla personalità individuale." title="Vero Sé, anima o principio interiore; tenuto distinto dall&#x27;ego ordinario e dalla personalità individuale." data-glossary-id="atman">Atman</span> supremo: il signore imperituro che entra nei tre mondi e li sostiene.</p>
+<p class="translation translation-it" data-lang="it">Ma vi è un altro <span class="glossary-term" tabindex="0" data-gloss="Persona, spirito o principio cosciente; il significato varia a seconda del passo." aria-label="Persona, spirito o principio cosciente; il significato varia a seconda del passo." title="Persona, spirito o principio cosciente; il significato varia a seconda del passo." data-glossary-id="purusha">purusha</span>, il supremo, chiamato <span class="glossary-term" tabindex="0" data-gloss="Il vero sé, anima o principio interiore; tenuto distinto dall’ego ordinario e dalla personalità individuale." aria-label="Il vero sé, anima o principio interiore; tenuto distinto dall’ego ordinario e dalla personalità individuale." title="Il vero sé, anima o principio interiore; tenuto distinto dall’ego ordinario e dalla personalità individuale." data-glossary-id="atman">Atman</span> supremo: il Signore imperituro che entra nei tre mondi e li sostiene.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">उत्तमः पुरुषस्त्वन्यः परमात्मेत्युदाहृतः ।<br>
@@ -263,7 +263,7 @@ Then run:
 <a class="ref" href="#v-15-18">15.18</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Poiché trascendo il perituro e sono superiore anche all’imperituro, sono celebrato nel mondo e nei <span class="glossary-term" tabindex="0" data-gloss="Antichi testi sacri della tradizione vedica." aria-label="Antichi testi sacri della tradizione vedica." title="Antichi testi sacri della tradizione vedica." data-glossary-id="veda">Veda</span> come <span class="glossary-term" tabindex="0" data-gloss="La Persona Suprema: epiteto di Krishna che indica la realtà suprema che trascende sia il perituro sia l&#x27;imperituro" aria-label="La Persona Suprema: epiteto di Krishna che indica la realtà suprema che trascende sia il perituro sia l&#x27;imperituro" title="La Persona Suprema: epiteto di Krishna che indica la realtà suprema che trascende sia il perituro sia l&#x27;imperituro" data-glossary-id="purushottama">Purushottama</span>, la persona suprema.</p>
+<p class="translation translation-it" data-lang="it">Poiché trascendo il perituro e sono superiore anche all’imperituro, sono celebrato nel mondo e nei <span class="glossary-term" tabindex="0" data-gloss="Antichi testi sacri della tradizione vedica." aria-label="Antichi testi sacri della tradizione vedica." title="Antichi testi sacri della tradizione vedica." data-glossary-id="veda">Veda</span> come <span class="glossary-term" tabindex="0" data-gloss="La persona suprema: epiteto di Krishna che indica la realtà suprema, al di là sia del perituro sia dell’imperituro." aria-label="La persona suprema: epiteto di Krishna che indica la realtà suprema, al di là sia del perituro sia dell’imperituro." title="La persona suprema: epiteto di Krishna che indica la realtà suprema, al di là sia del perituro sia dell’imperituro." data-glossary-id="purushottama">Purushottama</span>, la persona suprema.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">यस्मात्क्षरमतीतोऽहमक्षरादपि चोत्तमः ।<br>
@@ -276,7 +276,7 @@ Then run:
 <a class="ref" href="#v-15-19">15.19</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Colui che, libero dall’illusione, mi conosce così come persona suprema conosce ogni cosa e mi venera con tutto il suo essere, o <span class="glossary-term" tabindex="0" data-gloss="Nome dinastico o ancestrale, spesso usato come appellativo." aria-label="Nome dinastico o ancestrale, spesso usato come appellativo." title="Nome dinastico o ancestrale, spesso usato come appellativo." data-glossary-id="bharata">Bharata</span>.</p>
+<p class="translation translation-it" data-lang="it">Colui che, libero dall’illusione, mi conosce così, come persona suprema, conosce ogni cosa e mi venera con tutto il suo essere, o <span class="glossary-term" tabindex="0" data-gloss="Nome dinastico o ancestrale, spesso usato come appellativo." aria-label="Nome dinastico o ancestrale, spesso usato come appellativo." title="Nome dinastico o ancestrale, spesso usato come appellativo." data-glossary-id="bharata">Bharata</span>.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">यो मामेवमसम्मूढो जानाति पुरुषोत्तमम् ।<br>

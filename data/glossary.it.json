@@ -13,7 +13,7 @@
     "id": "karma",
     "term": "karma",
     "group": "Concetti",
-    "definition": "Azione, atto, o le conseguenze legate all'azione.",
+    "definition": "Azione, atto, o le conseguenze legate all’azione.",
     "variants": [
       "karma",
       "karma-yoga"
@@ -37,7 +37,7 @@
     "id": "yogin",
     "term": "yogin",
     "group": "Concetti",
-    "definition": "Praticante dello yoga",
+    "definition": "Praticante dello yoga.",
     "variants": [
       "yogi",
       "yogin",
@@ -49,7 +49,7 @@
     "id": "atman",
     "term": "Atman",
     "group": "Concetti",
-    "definition": "Vero Sé, anima o principio interiore; tenuto distinto dall'ego ordinario e dalla personalità individuale.",
+    "definition": "Il vero sé, anima o principio interiore; tenuto distinto dall’ego ordinario e dalla personalità individuale.",
     "variants": [
       "Atman",
       "Ātman"
@@ -59,7 +59,7 @@
     "id": "brahman",
     "term": "Brahman",
     "group": "Concetti",
-    "definition": "La realtà ultima o principio assoluto.",
+    "definition": "La realtà ultima o principio assoluto; in alcuni passi (3.15, 4.32) la parola indica il Veda, in 14.3–4 la natura primordiale (prakriti).",
     "variants": [
       "Brahma-nirvana",
       "Brahma-sūtra",
@@ -70,7 +70,7 @@
   },
   {
     "id": "brahmin",
-    "term": "Brahmin",
+    "term": "brahmino",
     "group": "Termini sociali e rituali",
     "definition": "Membro della classe sacerdotale o dotta; in sanscrito brāhmaṇa.",
     "variants": [
@@ -165,7 +165,7 @@
     "id": "purushottama",
     "term": "Purushottama",
     "group": "Nomi ed epiteti",
-    "definition": "La Persona Suprema: epiteto di Krishna che indica la realtà suprema che trascende sia il perituro sia l'imperituro",
+    "definition": "La persona suprema: epiteto di Krishna che indica la realtà suprema, al di là sia del perituro sia dell’imperituro.",
     "variants": [
       "Purushottama"
     ]
@@ -174,7 +174,7 @@
     "id": "kshetra",
     "term": "kshetra",
     "group": "Concetti",
-    "definition": "Campo, in particolare il corpo o campo dell'esperienza nel capitolo 13.",
+    "definition": "Campo, in particolare il corpo o campo dell’esperienza nel capitolo 13.",
     "variants": [
       "kshetra",
       "kṣetra"
@@ -229,7 +229,7 @@
     "id": "samsara",
     "term": "samsara",
     "group": "Concetti",
-    "definition": "Il ciclo continuo del divenire mondano, della nascita, della morte e dell'attaccamento.",
+    "definition": "Il ciclo continuo del divenire mondano, della nascita, della morte e dell’attaccamento.",
     "variants": [
       "samsara",
       "saṃsāra"
@@ -269,7 +269,7 @@
     "id": "om",
     "term": "Om",
     "group": "Termini sociali e rituali",
-    "definition": "Sillaba sacra usata come segno conciso dell'assoluto o del divino.",
+    "definition": "Sillaba sacra usata come segno conciso dell’assoluto o del divino.",
     "variants": [
       "AUM",
       "Om"
@@ -289,7 +289,7 @@
     "id": "vaishya",
     "term": "vaishya",
     "group": "Termini sociali e rituali",
-    "definition": "Membro della classe associata al commercio, all'agricoltura e all'allevamento.",
+    "definition": "Membro della classe associata al commercio, all’agricoltura e all’allevamento.",
     "variants": [
       "vaishya",
       "vaishyas",
@@ -313,7 +313,7 @@
     "id": "krishna",
     "term": "Krishna",
     "group": "Nomi ed epiteti",
-    "definition": "Krishna, che espone l'insegnamento ad Arjuna.",
+    "definition": "Krishna, che espone l’insegnamento ad Arjuna.",
     "variants": [
       "Krishna",
       "Kṛṣṇa"
@@ -445,7 +445,7 @@
     "id": "vasudeva",
     "term": "Vasudeva",
     "group": "Nomi ed epiteti",
-    "definition": "Nome o epiteto di Krishna, figlio di Vasudeva.",
+    "definition": "Patronimico di Krishna (Vāsudeva, «figlio di Vasudeva»).",
     "variants": [
       "Vasudeva",
       "Vāsudeva"
@@ -518,7 +518,7 @@
     "id": "kuru",
     "term": "Kuru",
     "group": "Nomi ed epiteti",
-    "definition": "Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all'intera dinastia o allo schieramento Kaurava.",
+    "definition": "Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all’intera dinastia o allo schieramento Kaurava.",
     "variants": [
       "Kuru",
       "Kurus"
@@ -582,7 +582,7 @@
     "id": "manu",
     "term": "Manu",
     "group": "Nomi ed epiteti",
-    "definition": "Antico progenitore o legislatore che riceve l'insegnamento da Vivasvan.",
+    "definition": "Antico progenitore o legislatore che riceve l’insegnamento da Vivasvan.",
     "variants": [
       "Manu"
     ]
@@ -591,7 +591,7 @@
     "id": "ikshvaku",
     "term": "Ikshvaku",
     "group": "Nomi ed epiteti",
-    "definition": "Antico re che riceve l'insegnamento da Manu.",
+    "definition": "Antico re che riceve l’insegnamento da Manu.",
     "variants": [
       "Ikshvaku"
     ]
@@ -645,7 +645,7 @@
     "id": "varuna",
     "term": "Varuna",
     "group": "Nomi ed epiteti",
-    "definition": "Divinità vedica associata all'ordine cosmico e alle acque.",
+    "definition": "Divinità vedica associata all’ordine cosmico e alle acque.",
     "variants": [
       "Varuna"
     ]
@@ -663,7 +663,7 @@
     "id": "tat",
     "term": "Tat",
     "group": "Termini sociali e rituali",
-    "definition": "Formula sacra che significa «Quello», parte dell'espressione Om Tat Sat.",
+    "definition": "Formula sacra che significa «Quello», parte dell’espressione Om Tat Sat.",
     "variants": [
       "Tat"
     ]
@@ -671,7 +671,7 @@
   {
     "id": "sat",
     "term": "Sat",
-    "group": "Concetti",
+    "group": "Termini sociali e rituali",
     "definition": "Essere, verità o bontà; in 17.23 parte della formula sacra Om Tat Sat.",
     "variants": [
       "Sat"

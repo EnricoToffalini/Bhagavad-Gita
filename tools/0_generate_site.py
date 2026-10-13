@@ -575,6 +575,8 @@ website:
 {navbar_flags}
   sidebar:
 {chr(10).join(sidebars)}
+  page-footer:
+    center: 'Sanskrit text: public domain &middot; translations &amp; site content: <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>'
 
 format:
   html:
@@ -675,6 +677,7 @@ def write_seo_head(lang):
         },
         'description': seo['book_description'],
         'url': f'{SITE_URL}{lang}/',
+        'license': 'https://creativecommons.org/licenses/by-sa/4.0/',
     }
     body = json.dumps(data, ensure_ascii=False, indent=2)
     (OUT / lang / 'seo-head.html').write_text(
@@ -867,7 +870,7 @@ def write_chapters(lang, chapters, glossary):
         )
         home_link = f'<a class="chapter-home" href="../index.html">{esc(ui["home"])}</a>'
         parts = page_header(
-            f'{ui["chapter"]} {ch} - {title_roman}',
+            f'{ui["chapter"]} {ch} – {title_roman}',
             lang,
             sidebar_id=lang,
             pagetitle=seo['chapter_title'].format(

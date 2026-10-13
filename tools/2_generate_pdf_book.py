@@ -281,7 +281,7 @@ def render_chapters(verses, chapter_titles, language):
         chapter_label = LANGUAGES[language]["chapter"]
         title = escape_latex(chapter_titles.get(chapter, f"{chapter_label} {chapter}"))
         parts.append(r"\clearpage")
-        parts.append(f"# {chapter_label} {chapter} - {title}")
+        parts.append(f"# {chapter_label} {chapter} – {title}")
         parts.append("")
         for verse in chapters[chapter]:
             parts.extend(render_verse(verse))

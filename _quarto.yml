@@ -161,6 +161,8 @@ website:
         - text: "---"
         - text: "Glossario"
           href: it/glossary.qmd
+  page-footer:
+    center: 'Sanskrit text: public domain &middot; translations &amp; site content: <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>'
 
 format:
   html:

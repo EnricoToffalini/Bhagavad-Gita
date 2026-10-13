@@ -1,5 +1,5 @@
 ---
-title: "Capitolo 2 - Sankhya Yoga"
+title: "Capitolo 2 – Sankhya Yoga"
 lang: it
 pagetitle: "Capitolo 2 — Sankhya Yoga — Bhagavad Gita | Enrico Toffalini"
 title-prefix: ""
@@ -32,7 +32,7 @@ Then run:
 <a class="ref" href="#v-2-1">2.1</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Vedendolo così sopraffatto dalla compassione, con gli occhi turbati e colmi di lacrime, <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Krishna: uccisore di Madhu." aria-label="Epiteto di Krishna: uccisore di Madhu." title="Epiteto di Krishna: uccisore di Madhu." data-glossary-id="madhusudana">Madhusudana</span> rivolse queste parole all&#x27;abbattuto <span class="glossary-term" tabindex="0" data-gloss="Arjuna, il guerriero a cui Krishna si rivolge." aria-label="Arjuna, il guerriero a cui Krishna si rivolge." title="Arjuna, il guerriero a cui Krishna si rivolge." data-glossary-id="arjuna">Arjuna</span>.</p>
+<p class="translation translation-it" data-lang="it">Vedendolo così sopraffatto dalla compassione, con gli occhi turbati e colmi di lacrime, <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Krishna: uccisore di Madhu." aria-label="Epiteto di Krishna: uccisore di Madhu." title="Epiteto di Krishna: uccisore di Madhu." data-glossary-id="madhusudana">Madhusudana</span> rivolse queste parole all’abbattuto <span class="glossary-term" tabindex="0" data-gloss="Arjuna, il guerriero a cui Krishna si rivolge." aria-label="Arjuna, il guerriero a cui Krishna si rivolge." title="Arjuna, il guerriero a cui Krishna si rivolge." data-glossary-id="arjuna">Arjuna</span>.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">तं तथा कृपयाविष्टमश्रुपूर्णाकुलेक्षणम् ।<br>
@@ -45,7 +45,7 @@ Then run:
 <a class="ref" href="#v-2-2">2.2</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Da dove ti è venuto questo smarrimento nell&#x27;ora della prova, <span class="glossary-term" tabindex="0" data-gloss="Arjuna, il guerriero a cui Krishna si rivolge." aria-label="Arjuna, il guerriero a cui Krishna si rivolge." title="Arjuna, il guerriero a cui Krishna si rivolge." data-glossary-id="arjuna">Arjuna</span>? È indegno, sconveniente a un uomo d&#x27;onore, e non conduce né al cielo né alla gloria.</p>
+<p class="translation translation-it" data-lang="it">Da dove ti è venuto questo smarrimento nell’ora della prova, <span class="glossary-term" tabindex="0" data-gloss="Arjuna, il guerriero a cui Krishna si rivolge." aria-label="Arjuna, il guerriero a cui Krishna si rivolge." title="Arjuna, il guerriero a cui Krishna si rivolge." data-glossary-id="arjuna">Arjuna</span>? È indegno, sconveniente a un uomo d’onore, e non conduce né al cielo né alla gloria.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">कुतस्त्वा कश्मलमिदं विषमे समुपस्थितम् ।<br>
@@ -58,7 +58,7 @@ Then run:
 <a class="ref" href="#v-2-3">2.3</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Non cedere alla debolezza, <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>; non ti si addice. Scaccia questa meschina debolezza del cuore e alzati, o vincitore dei nemici.</p>
+<p class="translation translation-it" data-lang="it">Non cedere alla viltà, <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>; non ti si addice. Scaccia questa meschina debolezza del cuore e alzati, o vincitore dei nemici.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते ।<br>
@@ -157,7 +157,7 @@ Then run:
 <a class="ref" href="#v-2-10">2.10</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-it" data-lang="it">O <span class="glossary-term" tabindex="0" data-gloss="Nome dinastico o ancestrale, spesso usato come appellativo." aria-label="Nome dinastico o ancestrale, spesso usato come appellativo." title="Nome dinastico o ancestrale, spesso usato come appellativo." data-glossary-id="bharata">Bharata</span>, <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Krishna, spesso inteso come signore dei sensi." aria-label="Epiteto di Krishna, spesso inteso come signore dei sensi." title="Epiteto di Krishna, spesso inteso come signore dei sensi." data-glossary-id="hrishikesha">Hrishikesha</span>, quasi sorridendo, rivolse queste parole a lui, abbattuto fra i due eserciti:</p>
+<p class="translation translation-it" data-lang="it">O <span class="glossary-term" tabindex="0" data-gloss="Nome dinastico o ancestrale, spesso usato come appellativo." aria-label="Nome dinastico o ancestrale, spesso usato come appellativo." title="Nome dinastico o ancestrale, spesso usato come appellativo." data-glossary-id="bharata">Bharata</span>, <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Krishna, spesso inteso come signore dei sensi." aria-label="Epiteto di Krishna, spesso inteso come signore dei sensi." title="Epiteto di Krishna, spesso inteso come signore dei sensi." data-glossary-id="hrishikesha">Hrishikesha</span>, quasi sorridendo, rivolse queste parole a lui, che sedeva abbattuto fra i due eserciti:</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">तमुवाच हृषीकेशः प्रहसन्निव भारत ।<br>
@@ -196,7 +196,7 @@ Then run:
 <a class="ref" href="#v-2-13">2.13</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Come il sé incarnato passa, in questo corpo, attraverso l&#x27;infanzia, la giovinezza e la vecchiaia, così passa in un altro corpo; chi è saldo non ne resta turbato.</p>
+<p class="translation translation-it" data-lang="it">Come il sé incarnato passa, in questo corpo, attraverso l’infanzia, la giovinezza e la vecchiaia, così passa in un altro corpo; chi è saldo non ne resta turbato.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा ।<br>
@@ -222,7 +222,7 @@ Then run:
 <a class="ref" href="#v-2-15">2.15</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Colui che non ne è turbato, o migliore fra gli uomini, e rimane saldo, uguale nel dolore e nel piacere, è degno dell&#x27;immortalità.</p>
+<p class="translation translation-it" data-lang="it">Colui che non ne è turbato, o migliore fra gli uomini, e rimane saldo, uguale nel dolore e nel piacere, è degno dell’immortalità.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ ।<br>
@@ -235,7 +235,7 @@ Then run:
 <a class="ref" href="#v-2-16">2.16</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">L&#x27;irreale non viene all&#x27;essere; il reale non cessa di essere. I veggenti della verità hanno colto la natura ultima di entrambi.</p>
+<p class="translation translation-it" data-lang="it">L’irreale non viene all’essere; il reale non cessa di essere. I veggenti della verità hanno colto la natura ultima di entrambi.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">नासतो विद्यते भावो नाभावो विद्यते सतः ।<br>
@@ -248,7 +248,7 @@ Then run:
 <a class="ref" href="#v-2-17">2.17</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Sappi che è indistruttibile ciò che pervade tutto questo; nessuno può distruggere questo imperituro.</p>
+<p class="translation translation-it" data-lang="it">Sappi che è indistruttibile ciò che pervade tutto questo; nessuno può distruggere ciò che è imperituro.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">अविनाशि तु तद्विद्धि येन सर्वमिदं ततम् ।<br>
@@ -261,7 +261,7 @@ Then run:
 <a class="ref" href="#v-2-18">2.18</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Si dice che questi corpi del sé incarnato, eterno, abbiano una fine; ma il sé stesso è indistruttibile e incommensurabile. Perciò combatti, o <span class="glossary-term" tabindex="0" data-gloss="Nome dinastico o ancestrale, spesso usato come appellativo." aria-label="Nome dinastico o ancestrale, spesso usato come appellativo." title="Nome dinastico o ancestrale, spesso usato come appellativo." data-glossary-id="bharata">Bharata</span>.</p>
+<p class="translation translation-it" data-lang="it">Si dice che questi corpi del sé incarnato, eterno, abbiano una fine; ma il sé, in quanto tale, è indistruttibile e incommensurabile. Perciò combatti, o <span class="glossary-term" tabindex="0" data-gloss="Nome dinastico o ancestrale, spesso usato come appellativo." aria-label="Nome dinastico o ancestrale, spesso usato come appellativo." title="Nome dinastico o ancestrale, spesso usato come appellativo." data-glossary-id="bharata">Bharata</span>.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">अन्तवन्त इमे देहा नित्यस्योक्ताः शरीरिणः ।<br>
@@ -330,7 +330,7 @@ Then run:
 <a class="ref" href="#v-2-23">2.23</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Le armi non lo tagliano, il fuoco non lo brucia; l&#x27;acqua non lo bagna, né il vento lo prosciuga.</p>
+<p class="translation translation-it" data-lang="it">Le armi non lo tagliano, il fuoco non lo brucia; l’acqua non lo bagna, né il vento lo prosciuga.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावकः ।<br>
@@ -540,7 +540,7 @@ Then run:
 <a class="ref" href="#v-2-39">2.39</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Questa comprensione ti è stata esposta secondo il <span class="glossary-term" tabindex="0" data-gloss="Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale." aria-label="Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale." title="Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale." data-glossary-id="sankhya">Sankhya</span>; ascoltala ora in relazione allo <span class="glossary-term" tabindex="0" data-gloss="Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj)." aria-label="Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj)." title="Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj)." data-glossary-id="yoga">yoga</span>. Saldo in questa comprensione, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>, spezzerai il vincolo del <span class="glossary-term" tabindex="0" data-gloss="Azione, atto, o le conseguenze legate all&#x27;azione." aria-label="Azione, atto, o le conseguenze legate all&#x27;azione." title="Azione, atto, o le conseguenze legate all&#x27;azione." data-glossary-id="karma">karma</span>.</p>
+<p class="translation translation-it" data-lang="it">Questa comprensione ti è stata esposta secondo il <span class="glossary-term" tabindex="0" data-gloss="Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale." aria-label="Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale." title="Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale." data-glossary-id="sankhya">Sankhya</span>; ascoltala ora in relazione allo <span class="glossary-term" tabindex="0" data-gloss="Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj)." aria-label="Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj)." title="Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj)." data-glossary-id="yoga">yoga</span>. Saldo in questa comprensione, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>, spezzerai il vincolo del <span class="glossary-term" tabindex="0" data-gloss="Azione, atto, o le conseguenze legate all’azione." aria-label="Azione, atto, o le conseguenze legate all’azione." title="Azione, atto, o le conseguenze legate all’azione." data-glossary-id="karma">karma</span>.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">एषा तेऽभिहिता साङ्ख्ये बुद्धिर्योगे त्विमां श‍ृणु ।<br>
@@ -566,7 +566,7 @@ Then run:
 <a class="ref" href="#v-2-41">2.41</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Su questo cammino la comprensione di chi è risoluto è unitaria, o vanto dei <span class="glossary-term" tabindex="0" data-gloss="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all&#x27;intera dinastia o allo schieramento Kaurava." aria-label="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all&#x27;intera dinastia o allo schieramento Kaurava." title="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all&#x27;intera dinastia o allo schieramento Kaurava." data-glossary-id="kuru">Kuru</span>; i pensieri degli irresoluti, invece, si ramificano senza fine.</p>
+<p class="translation translation-it" data-lang="it">Su questo cammino la comprensione di chi è risoluto è unitaria, o vanto dei <span class="glossary-term" tabindex="0" data-gloss="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all’intera dinastia o allo schieramento Kaurava." aria-label="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all’intera dinastia o allo schieramento Kaurava." title="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all’intera dinastia o allo schieramento Kaurava." data-glossary-id="kuru">Kuru</span>; i pensieri degli irresoluti, invece, si ramificano senza fine.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">व्यवसायात्मिका बुद्धिरेकेह कुरुनन्दन ।<br>
@@ -618,7 +618,7 @@ Then run:
 <a class="ref" href="#v-2-45">2.45</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">I <span class="glossary-term" tabindex="0" data-gloss="Antichi testi sacri della tradizione vedica." aria-label="Antichi testi sacri della tradizione vedica." title="Antichi testi sacri della tradizione vedica." data-glossary-id="veda">Veda</span> trattano dei tre <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span>; tu sii libero dai tre <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span>, o <span class="glossary-term" tabindex="0" data-gloss="Arjuna, il guerriero a cui Krishna si rivolge." aria-label="Arjuna, il guerriero a cui Krishna si rivolge." title="Arjuna, il guerriero a cui Krishna si rivolge." data-glossary-id="arjuna">Arjuna</span>—al di là delle coppie di opposti, sempre saldo nella purezza, libero dall&#x27;assillo di acquisire e conservare, padrone di te stesso.</p>
+<p class="translation translation-it" data-lang="it">I <span class="glossary-term" tabindex="0" data-gloss="Antichi testi sacri della tradizione vedica." aria-label="Antichi testi sacri della tradizione vedica." title="Antichi testi sacri della tradizione vedica." data-glossary-id="veda">Veda</span> trattano dei tre <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span>; tu sii libero dai tre <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span>, o <span class="glossary-term" tabindex="0" data-gloss="Arjuna, il guerriero a cui Krishna si rivolge." aria-label="Arjuna, il guerriero a cui Krishna si rivolge." title="Arjuna, il guerriero a cui Krishna si rivolge." data-glossary-id="arjuna">Arjuna</span>—al di là delle coppie di opposti, sempre saldo in <span class="glossary-term" tabindex="0" data-gloss="Il guna associato a chiarezza, equilibrio e illuminazione." aria-label="Il guna associato a chiarezza, equilibrio e illuminazione." title="Il guna associato a chiarezza, equilibrio e illuminazione." data-glossary-id="sattva">sattva</span>, libero dall’assillo di acquisire e conservare, padrone di te stesso.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">त्रैगुण्यविषया वेदा निस्त्रैगुण्यो भवार्जुन ।<br>
@@ -644,7 +644,7 @@ Then run:
 <a class="ref" href="#v-2-47">2.47</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">A te spetta soltanto l&#x27;azione, mai i suoi frutti. Non siano i frutti dell&#x27;azione il tuo movente, e non attaccarti neppure all&#x27;inazione.</p>
+<p class="translation translation-it" data-lang="it">A te spetta soltanto l’azione, mai i suoi frutti. Non siano i frutti dell’azione il tuo movente, e non attaccarti neppure all’inazione.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।<br>
@@ -657,7 +657,7 @@ Then run:
 <a class="ref" href="#v-2-48">2.48</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Saldo nello <span class="glossary-term" tabindex="0" data-gloss="Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj)." aria-label="Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj)." title="Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj)." data-glossary-id="yoga">yoga</span>, compi le tue azioni abbandonando l&#x27;attaccamento, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." aria-label="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." title="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." data-glossary-id="dhananjaya">Dhananjaya</span>, con animo uguale nel successo e nel fallimento: questa equanimità è chiamata <span class="glossary-term" tabindex="0" data-gloss="Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj)." aria-label="Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj)." title="Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj)." data-glossary-id="yoga">yoga</span>.</p>
+<p class="translation translation-it" data-lang="it">Saldo nello <span class="glossary-term" tabindex="0" data-gloss="Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj)." aria-label="Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj)." title="Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj)." data-glossary-id="yoga">yoga</span>, compi le tue azioni abbandonando l’attaccamento, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." aria-label="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." title="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." data-glossary-id="dhananjaya">Dhananjaya</span>, con animo uguale nel successo e nel fallimento: questa equanimità è chiamata <span class="glossary-term" tabindex="0" data-gloss="Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj)." aria-label="Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj)." title="Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj)." data-glossary-id="yoga">yoga</span>.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय ।<br>
@@ -670,7 +670,7 @@ Then run:
 <a class="ref" href="#v-2-49">2.49</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">L&#x27;azione motivata dal suo frutto è di gran lunga inferiore allo <span class="glossary-term" tabindex="0" data-gloss="Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj)." aria-label="Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj)." title="Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj)." data-glossary-id="yoga">yoga</span> della comprensione, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." aria-label="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." title="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." data-glossary-id="dhananjaya">Dhananjaya</span>; cerca rifugio nella comprensione. Miserabili sono coloro che agiscono per i frutti dell&#x27;azione.</p>
+<p class="translation translation-it" data-lang="it">L’azione motivata dal suo frutto è di gran lunga inferiore allo <span class="glossary-term" tabindex="0" data-gloss="Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj)." aria-label="Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj)." title="Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj)." data-glossary-id="yoga">yoga</span> della comprensione, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." aria-label="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." title="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." data-glossary-id="dhananjaya">Dhananjaya</span>; cerca rifugio nella comprensione. Miserabili sono coloro che agiscono per i frutti dell’azione.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">दूरेण ह्यवरं कर्म बुद्धियोगाद्धनञ्जय ।<br>
@@ -696,7 +696,7 @@ Then run:
 <a class="ref" href="#v-2-51">2.51</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">I saggi, saldi nella comprensione, rinunciano al frutto nato dall&#x27;azione e, liberati dal vincolo della nascita, raggiungono lo stato al di là di ogni male.</p>
+<p class="translation translation-it" data-lang="it">I saggi, saldi nella comprensione, rinunciano al frutto nato dall’azione e, liberati dal vincolo della nascita, raggiungono lo stato al di là di ogni male.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">कर्मजं बुद्धियुक्ता हि फलं त्यक्त्वा मनीषिणः ।<br>
@@ -748,7 +748,7 @@ Then run:
 <a class="ref" href="#v-2-55">2.55</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Quando un uomo abbandona tutti i desideri che sorgono nella mente, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>, ed è appagato nel sé e dal sé stesso, allora è detto saldo nella saggezza.</p>
+<p class="translation translation-it" data-lang="it">Quando un uomo abbandona tutti i desideri che sorgono nella mente, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>, ed è appagato nel sé, per mezzo del sé, allora è detto saldo nella saggezza.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">प्रजहाति यदा कामान्सर्वान्पार्थ मनोगतान् ।<br>
@@ -813,7 +813,7 @@ Then run:
 <a class="ref" href="#v-2-60">2.60</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Anche nell&#x27;uomo che si sforza e vede con chiarezza, o figlio di Kunti, i sensi turbolenti trascinano via con violenza la mente.</p>
+<p class="translation translation-it" data-lang="it">Anche nell’uomo che si sforza e vede con chiarezza, o figlio di Kunti, i sensi turbolenti trascinano via con violenza la mente.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">यततो ह्यपि कौन्तेय पुरुषस्य विपश्चितः ।<br>
@@ -826,7 +826,7 @@ Then run:
 <a class="ref" href="#v-2-61">2.61</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Tenendoli tutti a freno, dimori raccolto nello <span class="glossary-term" tabindex="0" data-gloss="Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj)." aria-label="Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj)." title="Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj)." data-glossary-id="yoga">yoga</span>, con la mente rivolta a me; poiché, per chi ha padroneggiato i sensi, la saggezza è salda.</p>
+<p class="translation translation-it" data-lang="it">Tenendoli tutti a freno, rimanga raccolto nello <span class="glossary-term" tabindex="0" data-gloss="Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj)." aria-label="Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj)." title="Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj)." data-glossary-id="yoga">yoga</span>, con la mente rivolta a me; poiché, per chi ha padroneggiato i sensi, la saggezza è salda.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">तानि सर्वाणि संयम्य युक्त आसीत मत्परः ।<br>
@@ -839,7 +839,7 @@ Then run:
 <a class="ref" href="#v-2-62">2.62</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">In chi si sofferma sugli oggetti dei sensi nasce l&#x27;attaccamento a essi; dall&#x27;attaccamento sorge il desiderio, e dal desiderio l&#x27;ira.</p>
+<p class="translation translation-it" data-lang="it">In chi si sofferma sugli oggetti dei sensi nasce l’attaccamento a essi; dall’attaccamento sorge il desiderio, e dal desiderio l’ira.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते ।<br>
@@ -852,7 +852,7 @@ Then run:
 <a class="ref" href="#v-2-63">2.63</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Dall&#x27;ira nasce lo smarrimento; dallo smarrimento, la confusione della memoria; dalla perdita della memoria, la rovina dell&#x27;intelletto; e dalla rovina dell&#x27;intelletto, l&#x27;uomo perisce.</p>
+<p class="translation translation-it" data-lang="it">Dall’ira nasce lo smarrimento; dallo smarrimento, la confusione della memoria; dalla perdita della memoria, la rovina dell’intelletto; e dalla rovina dell’intelletto, l’uomo perisce.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">क्रोधाद्भवति सम्मोहः सम्मोहात्स्मृतिविभ्रमः ।<br>
@@ -904,7 +904,7 @@ Then run:
 <a class="ref" href="#v-2-67">2.67</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Quando la mente corre dietro ai sensi erranti, quella mente trascina via la saggezza dell&#x27;uomo, come il vento trascina una barca sull&#x27;acqua.</p>
+<p class="translation translation-it" data-lang="it">Quando la mente corre dietro ai sensi erranti, quella mente trascina via la saggezza dell’uomo, come il vento trascina una barca sull’acqua.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">इन्द्रियाणां हि चरतां यन्मनोऽनुविधीयते ।<br>
@@ -930,7 +930,7 @@ Then run:
 <a class="ref" href="#v-2-69">2.69</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Quando tutti gli esseri dormono, chi è disciplinato rimane desto; ciò per cui gli esseri sono desti è notte per il saggio che vede.</p>
+<p class="translation translation-it" data-lang="it">Ciò che è notte per tutti gli esseri è veglia per chi è disciplinato; ciò in cui gli esseri vegliano è notte per il saggio che vede.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">या निशा सर्वभूतानां तस्यां जागर्ति संयमी ।<br>
@@ -943,7 +943,7 @@ Then run:
 <a class="ref" href="#v-2-70">2.70</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Come le acque confluiscono nell&#x27;oceano, che pur colmandosi rimane saldo e immobile, così tutti i desideri confluiscono in colui che raggiunge la pace—non in chi insegue i desideri.</p>
+<p class="translation translation-it" data-lang="it">Come le acque confluiscono nell’oceano, che pur colmandosi rimane saldo e immobile, così tutti i desideri confluiscono in colui che raggiunge la pace—non in chi insegue i desideri.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">आपूर्यमाणमचलप्रतिष्ठं<br>
@@ -958,7 +958,7 @@ Then run:
 <a class="ref" href="#v-2-71">2.71</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">L&#x27;uomo che, abbandonando tutti i desideri, procede libero dalla bramosia, dall&#x27;ego e dal senso del possesso, raggiunge la pace.</p>
+<p class="translation translation-it" data-lang="it">L’uomo che, abbandonando tutti i desideri, procede libero dalla bramosia, dall’ego e dal senso del possesso, raggiunge la pace.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">विहाय कामान्यः सर्वान्पुमांश्चरति निःस्पृहः ।<br>
@@ -971,7 +971,7 @@ Then run:
 <a class="ref" href="#v-2-72">2.72</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Questo è lo stato di <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span>, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>; raggiuntolo, non si cade più nell&#x27;illusione. Chi vi rimane stabilito anche nell&#x27;ora della morte raggiunge il <span class="glossary-term" tabindex="0" data-gloss="Estinzione, pace o liberazione; qui spesso collegato a Brahman." aria-label="Estinzione, pace o liberazione; qui spesso collegato a Brahman." title="Estinzione, pace o liberazione; qui spesso collegato a Brahman." data-glossary-id="nirvana">nirvana</span> di <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span>.</p>
+<p class="translation translation-it" data-lang="it">Questo è lo stato di <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto; in alcuni passi (3.15, 4.32) la parola indica il Veda, in 14.3–4 la natura primordiale (prakriti)." aria-label="La realtà ultima o principio assoluto; in alcuni passi (3.15, 4.32) la parola indica il Veda, in 14.3–4 la natura primordiale (prakriti)." title="La realtà ultima o principio assoluto; in alcuni passi (3.15, 4.32) la parola indica il Veda, in 14.3–4 la natura primordiale (prakriti)." data-glossary-id="brahman">Brahman</span>, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>; raggiuntolo, non si cade più nell’illusione. Chi vi rimane stabilito anche nell’ora della morte raggiunge il <span class="glossary-term" tabindex="0" data-gloss="Estinzione, pace o liberazione; qui spesso collegato a Brahman." aria-label="Estinzione, pace o liberazione; qui spesso collegato a Brahman." title="Estinzione, pace o liberazione; qui spesso collegato a Brahman." data-glossary-id="nirvana">nirvana</span> di <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto; in alcuni passi (3.15, 4.32) la parola indica il Veda, in 14.3–4 la natura primordiale (prakriti)." aria-label="La realtà ultima o principio assoluto; in alcuni passi (3.15, 4.32) la parola indica il Veda, in 14.3–4 la natura primordiale (prakriti)." title="La realtà ultima o principio assoluto; in alcuni passi (3.15, 4.32) la parola indica il Veda, in 14.3–4 la natura primordiale (prakriti)." data-glossary-id="brahman">Brahman</span>.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">एषा ब्राह्मी स्थितिः पार्थ नैनां प्राप्य विमुह्यति ।<br>

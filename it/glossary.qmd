@@ -31,12 +31,12 @@ Una guida essenziale ai termini sanscriti traslitterati e ai nomi ricorrenti nel
 <div class="glossary-list">
 <section class="glossary-entry" id="glossary-atman">
 <h3>Atman</h3>
-<p>Vero Sé, anima o principio interiore; tenuto distinto dall&#x27;ego ordinario e dalla personalità individuale.</p>
+<p>Il vero sé, anima o principio interiore; tenuto distinto dall’ego ordinario e dalla personalità individuale.</p>
 <p class="glossary-variants">Forme nel testo: Atman</p>
 </section>
 <section class="glossary-entry" id="glossary-brahman">
 <h3>Brahman</h3>
-<p>La realtà ultima o principio assoluto.</p>
+<p>La realtà ultima o principio assoluto; in alcuni passi (3.15, 4.32) la parola indica il Veda, in 14.3–4 la natura primordiale (prakriti).</p>
 <p class="glossary-variants">Forme nel testo: Brahman</p>
 </section>
 <section class="glossary-entry" id="glossary-dharma">
@@ -51,18 +51,16 @@ Una guida essenziale ai termini sanscriti traslitterati e ai nomi ricorrenti nel
 </section>
 <section class="glossary-entry" id="glossary-karma">
 <h3>karma</h3>
-<p>Azione, atto, o le conseguenze legate all&#x27;azione.</p>
+<p>Azione, atto, o le conseguenze legate all’azione.</p>
 <p class="glossary-variants">Forme nel testo: karma</p>
 </section>
 <section class="glossary-entry" id="glossary-kshetra">
 <h3>kshetra</h3>
-<p>Campo, in particolare il corpo o campo dell&#x27;esperienza nel capitolo 13.</p>
-<p class="glossary-variants">Forme nel testo: kshetra</p>
+<p>Campo, in particolare il corpo o campo dell’esperienza nel capitolo 13.</p>
 </section>
 <section class="glossary-entry" id="glossary-kshetrajna">
 <h3>kshetrajna</h3>
 <p>Conoscitore del campo; il principio cosciente correlato a kshetra.</p>
-<p class="glossary-variants">Forme nel testo: kshetrajna</p>
 </section>
 <section class="glossary-entry" id="glossary-maya">
 <h3>maya</h3>
@@ -77,12 +75,12 @@ Una guida essenziale ai termini sanscriti traslitterati e ai nomi ricorrenti nel
 <section class="glossary-entry" id="glossary-prakriti">
 <h3>prakriti</h3>
 <p>Natura, processo materiale, o il campo del mutamento e della manifestazione.</p>
-<p class="glossary-variants">Forme nel testo: prakriti, Prakriti</p>
+<p class="glossary-variants">Forme nel testo: Prakriti, prakriti</p>
 </section>
 <section class="glossary-entry" id="glossary-purusha">
 <h3>purusha</h3>
 <p>Persona, spirito o principio cosciente; il significato varia a seconda del passo.</p>
-<p class="glossary-variants">Forme nel testo: Purusha, purusha</p>
+<p class="glossary-variants">Forme nel testo: purusha, Purusha</p>
 </section>
 <section class="glossary-entry" id="glossary-rajas">
 <h3>rajas</h3>
@@ -91,7 +89,7 @@ Una guida essenziale ai termini sanscriti traslitterati e ai nomi ricorrenti nel
 </section>
 <section class="glossary-entry" id="glossary-samsara">
 <h3>samsara</h3>
-<p>Il ciclo continuo del divenire mondano, della nascita, della morte e dell&#x27;attaccamento.</p>
+<p>Il ciclo continuo del divenire mondano, della nascita, della morte e dell’attaccamento.</p>
 <p class="glossary-variants">Forme nel testo: samsara</p>
 </section>
 <section class="glossary-entry" id="glossary-sankhya">
@@ -99,15 +97,10 @@ Una guida essenziale ai termini sanscriti traslitterati e ai nomi ricorrenti nel
 <p>Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale.</p>
 <p class="glossary-variants">Forme nel testo: Sankhya</p>
 </section>
-<section class="glossary-entry" id="glossary-sat">
-<h3>Sat</h3>
-<p>Essere, verità o bontà; in 17.23 parte della formula sacra Om Tat Sat.</p>
-<p class="glossary-variants">Forme nel testo: Sat</p>
-</section>
 <section class="glossary-entry" id="glossary-sattva">
 <h3>sattva</h3>
 <p>Il guna associato a chiarezza, equilibrio e illuminazione.</p>
-<p class="glossary-variants">Forme nel testo: sattva, Sattva, sattvica, sattvici, sattvico</p>
+<p class="glossary-variants">Forme nel testo: Sattva, sattva, sattvica, sattvici, sattvico</p>
 </section>
 <section class="glossary-entry" id="glossary-tamas">
 <h3>tamas</h3>
@@ -126,7 +119,7 @@ Una guida essenziale ai termini sanscriti traslitterati e ai nomi ricorrenti nel
 </section>
 <section class="glossary-entry" id="glossary-yogin">
 <h3>yogin</h3>
-<p>Praticante dello yoga</p>
+<p>Praticante dello yoga.</p>
 <p class="glossary-variants">Forme nel testo: yogin</p>
 </section>
 </div>
@@ -135,7 +128,7 @@ Una guida essenziale ai termini sanscriti traslitterati e ai nomi ricorrenti nel
 
 <div class="glossary-list">
 <section class="glossary-entry" id="glossary-brahmin">
-<h3>Brahmin</h3>
+<h3>brahmino</h3>
 <p>Membro della classe sacerdotale o dotta; in sanscrito brāhmaṇa.</p>
 <p class="glossary-variants">Forme nel testo: brahmini, brahmino</p>
 </section>
@@ -146,8 +139,13 @@ Una guida essenziale ai termini sanscriti traslitterati e ai nomi ricorrenti nel
 </section>
 <section class="glossary-entry" id="glossary-om">
 <h3>Om</h3>
-<p>Sillaba sacra usata come segno conciso dell&#x27;assoluto o del divino.</p>
+<p>Sillaba sacra usata come segno conciso dell’assoluto o del divino.</p>
 <p class="glossary-variants">Forme nel testo: Om</p>
+</section>
+<section class="glossary-entry" id="glossary-sat">
+<h3>Sat</h3>
+<p>Essere, verità o bontà; in 17.23 parte della formula sacra Om Tat Sat.</p>
+<p class="glossary-variants">Forme nel testo: Sat</p>
 </section>
 <section class="glossary-entry" id="glossary-shudra">
 <h3>shudra</h3>
@@ -156,12 +154,12 @@ Una guida essenziale ai termini sanscriti traslitterati e ai nomi ricorrenti nel
 </section>
 <section class="glossary-entry" id="glossary-tat">
 <h3>Tat</h3>
-<p>Formula sacra che significa «Quello», parte dell&#x27;espressione Om Tat Sat.</p>
+<p>Formula sacra che significa «Quello», parte dell’espressione Om Tat Sat.</p>
 <p class="glossary-variants">Forme nel testo: Tat</p>
 </section>
 <section class="glossary-entry" id="glossary-vaishya">
 <h3>vaishya</h3>
-<p>Membro della classe associata al commercio, all&#x27;agricoltura e all&#x27;allevamento.</p>
+<p>Membro della classe associata al commercio, all’agricoltura e all’allevamento.</p>
 <p class="glossary-variants">Forme nel testo: vaishya</p>
 </section>
 <section class="glossary-entry" id="glossary-veda">
@@ -266,7 +264,7 @@ Una guida essenziale ai termini sanscriti traslitterati e ai nomi ricorrenti nel
 </section>
 <section class="glossary-entry" id="glossary-ikshvaku">
 <h3>Ikshvaku</h3>
-<p>Antico re che riceve l&#x27;insegnamento da Manu.</p>
+<p>Antico re che riceve l’insegnamento da Manu.</p>
 <p class="glossary-variants">Forme nel testo: Ikshvaku</p>
 </section>
 <section class="glossary-entry" id="glossary-janardana">
@@ -290,12 +288,12 @@ Una guida essenziale ai termini sanscriti traslitterati e ai nomi ricorrenti nel
 </section>
 <section class="glossary-entry" id="glossary-krishna">
 <h3>Krishna</h3>
-<p>Krishna, che espone l&#x27;insegnamento ad Arjuna.</p>
+<p>Krishna, che espone l’insegnamento ad Arjuna.</p>
 <p class="glossary-variants">Forme nel testo: Krishna</p>
 </section>
 <section class="glossary-entry" id="glossary-kuru">
 <h3>Kuru</h3>
-<p>Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all&#x27;intera dinastia o allo schieramento Kaurava.</p>
+<p>Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all’intera dinastia o allo schieramento Kaurava.</p>
 <p class="glossary-variants">Forme nel testo: Kuru</p>
 </section>
 <section class="glossary-entry" id="glossary-kurukshetra">
@@ -315,7 +313,7 @@ Una guida essenziale ai termini sanscriti traslitterati e ai nomi ricorrenti nel
 </section>
 <section class="glossary-entry" id="glossary-manu">
 <h3>Manu</h3>
-<p>Antico progenitore o legislatore che riceve l&#x27;insegnamento da Vivasvan.</p>
+<p>Antico progenitore o legislatore che riceve l’insegnamento da Vivasvan.</p>
 <p class="glossary-variants">Forme nel testo: Manu</p>
 </section>
 <section class="glossary-entry" id="glossary-pandava">
@@ -335,7 +333,7 @@ Una guida essenziale ai termini sanscriti traslitterati e ai nomi ricorrenti nel
 </section>
 <section class="glossary-entry" id="glossary-purushottama">
 <h3>Purushottama</h3>
-<p>La Persona Suprema: epiteto di Krishna che indica la realtà suprema che trascende sia il perituro sia l&#x27;imperituro</p>
+<p>La persona suprema: epiteto di Krishna che indica la realtà suprema, al di là sia del perituro sia dell’imperituro.</p>
 <p class="glossary-variants">Forme nel testo: Purushottama</p>
 </section>
 <section class="glossary-entry" id="glossary-sanjaya">
@@ -345,12 +343,12 @@ Una guida essenziale ai termini sanscriti traslitterati e ai nomi ricorrenti nel
 </section>
 <section class="glossary-entry" id="glossary-varuna">
 <h3>Varuna</h3>
-<p>Divinità vedica associata all&#x27;ordine cosmico e alle acque.</p>
+<p>Divinità vedica associata all’ordine cosmico e alle acque.</p>
 <p class="glossary-variants">Forme nel testo: Varuna</p>
 </section>
 <section class="glossary-entry" id="glossary-vasudeva">
 <h3>Vasudeva</h3>
-<p>Nome o epiteto di Krishna, figlio di Vasudeva.</p>
+<p>Patronimico di Krishna (Vāsudeva, «figlio di Vasudeva»).</p>
 <p class="glossary-variants">Forme nel testo: Vasudeva</p>
 </section>
 <section class="glossary-entry" id="glossary-vishnu">

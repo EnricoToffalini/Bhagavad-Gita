@@ -1,5 +1,5 @@
 ---
-title: "Capitolo 14 - Guna-Traya Vibhaga Yoga"
+title: "Capitolo 14 – Guna-Traya Vibhaga Yoga"
 lang: it
 pagetitle: "Capitolo 14 — Guna-Traya Vibhaga Yoga — Bhagavad Gita | Enrico Toffalini"
 title-prefix: ""
@@ -58,7 +58,7 @@ Then run:
 <a class="ref" href="#v-14-3">14.3</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Il grande <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span> è il mio grembo; in esso depongo il seme e da esso, o <span class="glossary-term" tabindex="0" data-gloss="Nome dinastico o ancestrale, spesso usato come appellativo." aria-label="Nome dinastico o ancestrale, spesso usato come appellativo." title="Nome dinastico o ancestrale, spesso usato come appellativo." data-glossary-id="bharata">Bharata</span>, nasce ogni essere.</p>
+<p class="translation translation-it" data-lang="it">Il grande <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto; in alcuni passi (3.15, 4.32) la parola indica il Veda, in 14.3–4 la natura primordiale (prakriti)." aria-label="La realtà ultima o principio assoluto; in alcuni passi (3.15, 4.32) la parola indica il Veda, in 14.3–4 la natura primordiale (prakriti)." title="La realtà ultima o principio assoluto; in alcuni passi (3.15, 4.32) la parola indica il Veda, in 14.3–4 la natura primordiale (prakriti)." data-glossary-id="brahman">Brahman</span> è il mio grembo; in esso depongo il seme e da esso, o <span class="glossary-term" tabindex="0" data-gloss="Nome dinastico o ancestrale, spesso usato come appellativo." aria-label="Nome dinastico o ancestrale, spesso usato come appellativo." title="Nome dinastico o ancestrale, spesso usato come appellativo." data-glossary-id="bharata">Bharata</span>, nasce ogni essere.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">मम योनिर्महद् ब्रह्म तस्मिन्गर्भं दधाम्यहम् ।<br>
@@ -71,7 +71,7 @@ Then run:
 <a class="ref" href="#v-14-4">14.4</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Qualunque forma nasca in qualunque grembo, o figlio di Kunti, il grande <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span> è quel grembo e io sono il padre che depone il seme.</p>
+<p class="translation translation-it" data-lang="it">Qualunque forma nasca in qualunque grembo, o figlio di Kunti, il grande <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto; in alcuni passi (3.15, 4.32) la parola indica il Veda, in 14.3–4 la natura primordiale (prakriti)." aria-label="La realtà ultima o principio assoluto; in alcuni passi (3.15, 4.32) la parola indica il Veda, in 14.3–4 la natura primordiale (prakriti)." title="La realtà ultima o principio assoluto; in alcuni passi (3.15, 4.32) la parola indica il Veda, in 14.3–4 la natura primordiale (prakriti)." data-glossary-id="brahman">Brahman</span> è quel grembo e io sono il padre che depone il seme.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">सर्वयोनिषु कौन्तेय मूर्तयः सम्भवन्ति याः ।<br>
@@ -188,7 +188,7 @@ Then run:
 <a class="ref" href="#v-14-13">14.13</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Oscurità, inerzia, negligenza e illusione sorgono quando <span class="glossary-term" tabindex="0" data-gloss="Il guna associato a inerzia, ottusità, confusione e ostruzione." aria-label="Il guna associato a inerzia, ottusità, confusione e ostruzione." title="Il guna associato a inerzia, ottusità, confusione e ostruzione." data-glossary-id="tamas">tamas</span> diviene predominante, o vanto dei <span class="glossary-term" tabindex="0" data-gloss="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all&#x27;intera dinastia o allo schieramento Kaurava." aria-label="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all&#x27;intera dinastia o allo schieramento Kaurava." title="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all&#x27;intera dinastia o allo schieramento Kaurava." data-glossary-id="kuru">Kuru</span>.</p>
+<p class="translation translation-it" data-lang="it">Oscurità, inerzia, negligenza e illusione sorgono quando <span class="glossary-term" tabindex="0" data-gloss="Il guna associato a inerzia, ottusità, confusione e ostruzione." aria-label="Il guna associato a inerzia, ottusità, confusione e ostruzione." title="Il guna associato a inerzia, ottusità, confusione e ostruzione." data-glossary-id="tamas">tamas</span> diviene predominante, o vanto dei <span class="glossary-term" tabindex="0" data-gloss="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all’intera dinastia o allo schieramento Kaurava." aria-label="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all’intera dinastia o allo schieramento Kaurava." title="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all’intera dinastia o allo schieramento Kaurava." data-glossary-id="kuru">Kuru</span>.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">अप्रकाशोऽप्रवृत्तिश्च प्रमादो मोह एव च ।<br>
@@ -253,7 +253,7 @@ Then run:
 <a class="ref" href="#v-14-18">14.18</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Coloro che sono stabiliti nel <span class="glossary-term" tabindex="0" data-gloss="Il guna associato a chiarezza, equilibrio e illuminazione." aria-label="Il guna associato a chiarezza, equilibrio e illuminazione." title="Il guna associato a chiarezza, equilibrio e illuminazione." data-glossary-id="sattva">sattva</span> salgono in alto; quelli nel <span class="glossary-term" tabindex="0" data-gloss="Il guna associato ad attività, passione, impulso e irrequietezza." aria-label="Il guna associato ad attività, passione, impulso e irrequietezza." title="Il guna associato ad attività, passione, impulso e irrequietezza." data-glossary-id="rajas">rajas</span> rimangono nel mezzo; quelli nel <span class="glossary-term" tabindex="0" data-gloss="Il guna associato a inerzia, ottusità, confusione e ostruzione." aria-label="Il guna associato a inerzia, ottusità, confusione e ostruzione." title="Il guna associato a inerzia, ottusità, confusione e ostruzione." data-glossary-id="tamas">tamas</span>, radicati nel <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span> più basso, sprofondano.</p>
+<p class="translation translation-it" data-lang="it">Coloro che sono stabiliti in <span class="glossary-term" tabindex="0" data-gloss="Il guna associato a chiarezza, equilibrio e illuminazione." aria-label="Il guna associato a chiarezza, equilibrio e illuminazione." title="Il guna associato a chiarezza, equilibrio e illuminazione." data-glossary-id="sattva">sattva</span> salgono in alto; quelli in <span class="glossary-term" tabindex="0" data-gloss="Il guna associato ad attività, passione, impulso e irrequietezza." aria-label="Il guna associato ad attività, passione, impulso e irrequietezza." title="Il guna associato ad attività, passione, impulso e irrequietezza." data-glossary-id="rajas">rajas</span> rimangono nel mezzo; quelli in <span class="glossary-term" tabindex="0" data-gloss="Il guna associato a inerzia, ottusità, confusione e ostruzione." aria-label="Il guna associato a inerzia, ottusità, confusione e ostruzione." title="Il guna associato a inerzia, ottusità, confusione e ostruzione." data-glossary-id="tamas">tamas</span>, radicati nel <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span> più basso, sprofondano.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">ऊर्ध्वं गच्छन्ति सत्त्वस्था मध्ये तिष्ठन्ति राजसाः ।<br>
@@ -266,7 +266,7 @@ Then run:
 <a class="ref" href="#v-14-19">14.19</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Quando si riconosce che nient&#x27;altro, all’infuori dei <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span>, è autore dell’azione, e si conosce ciò che trascende i <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span>, allora si raggiunge il mio stato dell’essere.</p>
+<p class="translation translation-it" data-lang="it">Quando si riconosce che nient’altro, all’infuori dei <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span>, è autore dell’azione, e si conosce ciò che trascende i <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span>, allora si raggiunge il mio essere.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">नान्यं गुणेभ्यः कर्तारं यदा द्रष्टानुपश्यति ।<br>
@@ -305,7 +305,7 @@ Then run:
 <a class="ref" href="#v-14-22">14.22</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Egli non rifugge la luce, l’attività o l’illusione quando si manifestano, o <span class="glossary-term" tabindex="0" data-gloss="Uno dei figli o discendenti di Pandu; spesso si riferisce ad Arjuna e ai suoi fratelli." aria-label="Uno dei figli o discendenti di Pandu; spesso si riferisce ad Arjuna e ai suoi fratelli." title="Uno dei figli o discendenti di Pandu; spesso si riferisce ad Arjuna e ai suoi fratelli." data-glossary-id="pandava">Pandava</span>, né le desidera quando cessano;</p>
+<p class="translation translation-it" data-lang="it">Egli non prova avversione per la luce, l’attività o l’illusione quando si manifestano, o <span class="glossary-term" tabindex="0" data-gloss="Uno dei figli o discendenti di Pandu; spesso si riferisce ad Arjuna e ai suoi fratelli." aria-label="Uno dei figli o discendenti di Pandu; spesso si riferisce ad Arjuna e ai suoi fratelli." title="Uno dei figli o discendenti di Pandu; spesso si riferisce ad Arjuna e ai suoi fratelli." data-glossary-id="pandava">Pandava</span>, né le desidera quando cessano;</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">प्रकाशं च प्रवृत्तिं च मोहमेव च पाण्डव ।<br>
@@ -318,7 +318,7 @@ Then run:
 <a class="ref" href="#v-14-23">14.23</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">rimanendo come uno spettatore distaccato, non scosso dai <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span>, rimane saldo e non vacilla, sapendo che sono soltanto i <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span> a operare;</p>
+<p class="translation translation-it" data-lang="it">sedendo come uno spettatore distaccato, non scosso dai <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span>, rimane saldo e non vacilla, sapendo che sono soltanto i <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span> a operare;</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">उदासीनवदासीनो गुणैर्यो न विचाल्यते ।<br>
@@ -331,7 +331,7 @@ Then run:
 <a class="ref" href="#v-14-24">14.24</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">uguale nel dolore e nel piacere, padrone di sé, considerando allo stesso modo una zolla, una pietra e dell&#x27;oro, equanime verso ciò che è gradito e ciò che è sgradito, fermo, uguale nel biasimo e nella lode;</p>
+<p class="translation translation-it" data-lang="it">uguale nel dolore e nel piacere, padrone di sé, considerando allo stesso modo una zolla, una pietra e dell’oro, equanime verso ciò che è gradito e ciò che è sgradito, fermo, uguale nel biasimo e nella lode;</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">समदुःखसुखः स्वस्थः समलोष्टाश्मकाञ्चनः ।<br>
@@ -357,7 +357,7 @@ Then run:
 <a class="ref" href="#v-14-26">14.26</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">E colui che mi serve con devozione incrollabile, oltrepassando questi <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span>, diviene capace di realizzare <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span>.</p>
+<p class="translation translation-it" data-lang="it">E colui che mi serve con devozione incrollabile, oltrepassando questi <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span>, diviene degno dello stato di <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto; in alcuni passi (3.15, 4.32) la parola indica il Veda, in 14.3–4 la natura primordiale (prakriti)." aria-label="La realtà ultima o principio assoluto; in alcuni passi (3.15, 4.32) la parola indica il Veda, in 14.3–4 la natura primordiale (prakriti)." title="La realtà ultima o principio assoluto; in alcuni passi (3.15, 4.32) la parola indica il Veda, in 14.3–4 la natura primordiale (prakriti)." data-glossary-id="brahman">Brahman</span>.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">मां च योऽव्यभिचारेण भक्तियोगेन सेवते ।<br>
@@ -370,7 +370,7 @@ Then run:
 <a class="ref" href="#v-14-27">14.27</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Io sono infatti il fondamento di <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span>, dell’immortale e imperituro, dell’eterno <span class="glossary-term" tabindex="0" data-gloss="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." aria-label="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." title="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." data-glossary-id="dharma">dharma</span> e della beatitudine assoluta.</p>
+<p class="translation translation-it" data-lang="it">Io sono infatti il fondamento di <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto; in alcuni passi (3.15, 4.32) la parola indica il Veda, in 14.3–4 la natura primordiale (prakriti)." aria-label="La realtà ultima o principio assoluto; in alcuni passi (3.15, 4.32) la parola indica il Veda, in 14.3–4 la natura primordiale (prakriti)." title="La realtà ultima o principio assoluto; in alcuni passi (3.15, 4.32) la parola indica il Veda, in 14.3–4 la natura primordiale (prakriti)." data-glossary-id="brahman">Brahman</span>, dell’immortale e imperituro, dell’eterno <span class="glossary-term" tabindex="0" data-gloss="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." aria-label="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." title="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." data-glossary-id="dharma">dharma</span> e della beatitudine assoluta.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">ब्रह्मणो हि प्रतिष्ठाहममृतस्याव्ययस्य च ।<br>

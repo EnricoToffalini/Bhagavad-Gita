@@ -1,5 +1,5 @@
 ---
-title: "Capitolo 16 - Daivasura-Sampad Vibhaga Yoga"
+title: "Capitolo 16 – Daivasura-Sampad Vibhaga Yoga"
 lang: it
 pagetitle: "Capitolo 16 — Daivasura-Sampad Vibhaga Yoga — Bhagavad Gita | Enrico Toffalini"
 title-prefix: ""
@@ -97,7 +97,7 @@ Then run:
 <a class="ref" href="#v-16-6">16.6</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">In questo mondo vi sono due ordini di esseri creati: quello divino e quello demoniaco; il divino è stato descritto a lungo, ascolta ora da me la descrizione dell&#x27;ordine demoniaco, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>.</p>
+<p class="translation translation-it" data-lang="it">In questo mondo vi sono due ordini di esseri creati: quello divino e quello demoniaco; il divino è stato descritto a lungo, ascolta ora da me la descrizione dell’ordine demoniaco, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">द्वौ भूतसर्गौ लोकेऽस्मिन्दैव आसुर एव च ।<br>
@@ -266,7 +266,7 @@ Then run:
 <a class="ref" href="#v-16-19">16.19</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Questi esseri pieni d’odio, crudeli e vili, i peggiori del mondo, io li scaglio ripetutamente in forme di nascita demoniache, nei cicli del <span class="glossary-term" tabindex="0" data-gloss="Il ciclo continuo del divenire mondano, della nascita, della morte e dell&#x27;attaccamento." aria-label="Il ciclo continuo del divenire mondano, della nascita, della morte e dell&#x27;attaccamento." title="Il ciclo continuo del divenire mondano, della nascita, della morte e dell&#x27;attaccamento." data-glossary-id="samsara">samsara</span>.</p>
+<p class="translation translation-it" data-lang="it">Questi esseri pieni d’odio, crudeli e vili, i peggiori del mondo, io li scaglio ripetutamente in forme di nascita demoniache, nei cicli del <span class="glossary-term" tabindex="0" data-gloss="Il ciclo continuo del divenire mondano, della nascita, della morte e dell’attaccamento." aria-label="Il ciclo continuo del divenire mondano, della nascita, della morte e dell’attaccamento." title="Il ciclo continuo del divenire mondano, della nascita, della morte e dell’attaccamento." data-glossary-id="samsara">samsara</span>.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">तानहं द्विषतः क्रूरान्संसारेषु नराधमान् ।<br>

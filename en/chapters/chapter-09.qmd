@@ -1,5 +1,5 @@
 ---
-title: "Chapter 9 - Raja-Vidya Raja-Guhya Yoga"
+title: "Chapter 9 – Raja-Vidya Raja-Guhya Yoga"
 lang: en
 pagetitle: "Chapter 9 — Raja-Vidya Raja-Guhya Yoga — Bhagavad Gita | Enrico Toffalini"
 title-prefix: ""
@@ -84,7 +84,7 @@ Then run:
 <a class="ref" href="#v-9-5">9.5</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">And yet beings do not dwell in me—behold my sovereign <span class="glossary-term" tabindex="0" data-gloss="Discipline or practice, or spiritual path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot; (from the root yuj)." aria-label="Discipline or practice, or spiritual path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot; (from the root yuj)." title="Discipline or practice, or spiritual path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot; (from the root yuj)." data-glossary-id="yoga">yoga</span>! Sustaining beings, yet not dwelling in them, my self is what brings beings into being.</p>
+<p class="translation translation-en" data-lang="en">And yet, in truth, beings do not dwell in me: behold my sovereign <span class="glossary-term" tabindex="0" data-gloss="Discipline or practice, or spiritual path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot; (from the root yuj)." aria-label="Discipline or practice, or spiritual path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot; (from the root yuj)." title="Discipline or practice, or spiritual path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot; (from the root yuj)." data-glossary-id="yoga">yoga</span>! I sustain beings without dwelling in them; my self brings beings into being.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">न च मत्स्थानि भूतानि पश्य मे योगमैश्वरम् ।<br>

@@ -1,5 +1,5 @@
 ---
-title: "Capitolo 1 - Arjuna Vishada Yoga"
+title: "Capitolo 1 – Arjuna Vishada Yoga"
 lang: it
 pagetitle: "Capitolo 1 — Arjuna Vishada Yoga — Bhagavad Gita | Enrico Toffalini"
 title-prefix: ""
@@ -45,7 +45,7 @@ Then run:
 <a class="ref" href="#v-1-2">1.2</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Allora il re <span class="glossary-term" tabindex="0" data-gloss="Capo dei Kaurava e figlio di Dhritarashtra." aria-label="Capo dei Kaurava e figlio di Dhritarashtra." title="Capo dei Kaurava e figlio di Dhritarashtra." data-glossary-id="duryodhana">Duryodhana</span>, vedendo l&#x27;esercito dei <span class="glossary-term" tabindex="0" data-gloss="Uno dei figli o discendenti di Pandu; spesso si riferisce ad Arjuna e ai suoi fratelli." aria-label="Uno dei figli o discendenti di Pandu; spesso si riferisce ad Arjuna e ai suoi fratelli." title="Uno dei figli o discendenti di Pandu; spesso si riferisce ad Arjuna e ai suoi fratelli." data-glossary-id="pandava">Pandava</span> schierato, si avvicinò al suo maestro e pronunciò queste parole.</p>
+<p class="translation translation-it" data-lang="it">Allora il re <span class="glossary-term" tabindex="0" data-gloss="Capo dei Kaurava e figlio di Dhritarashtra." aria-label="Capo dei Kaurava e figlio di Dhritarashtra." title="Capo dei Kaurava e figlio di Dhritarashtra." data-glossary-id="duryodhana">Duryodhana</span>, vedendo l’esercito dei <span class="glossary-term" tabindex="0" data-gloss="Uno dei figli o discendenti di Pandu; spesso si riferisce ad Arjuna e ai suoi fratelli." aria-label="Uno dei figli o discendenti di Pandu; spesso si riferisce ad Arjuna e ai suoi fratelli." title="Uno dei figli o discendenti di Pandu; spesso si riferisce ad Arjuna e ai suoi fratelli." data-glossary-id="pandava">Pandava</span> schierato, si avvicinò al suo maestro e pronunciò queste parole.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा ।<br>
@@ -97,7 +97,7 @@ Then run:
 <a class="ref" href="#v-1-6">1.6</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Il valoroso Yudhamanyu e l&#x27;intrepido Uttamauja, Saubhadra e i figli di <span class="glossary-term" tabindex="0" data-gloss="Sposa dei Pandava." aria-label="Sposa dei Pandava." title="Sposa dei Pandava." data-glossary-id="draupadi">Draupadi</span>—tutti grandi guerrieri sul carro.</p>
+<p class="translation translation-it" data-lang="it">Il valoroso Yudhamanyu e l’intrepido Uttamauja, Saubhadra e i figli di <span class="glossary-term" tabindex="0" data-gloss="Sposa dei Pandava." aria-label="Sposa dei Pandava." title="Sposa dei Pandava." data-glossary-id="draupadi">Draupadi</span>—tutti grandi guerrieri sul carro.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् ।<br>
@@ -175,7 +175,7 @@ Then run:
 <a class="ref" href="#v-1-12">1.12</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Per rincuorarlo, l&#x27;anziano <span class="glossary-term" tabindex="0" data-gloss="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all&#x27;intera dinastia o allo schieramento Kaurava." aria-label="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all&#x27;intera dinastia o allo schieramento Kaurava." title="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all&#x27;intera dinastia o allo schieramento Kaurava." data-glossary-id="kuru">Kuru</span>, il possente avo, ruggì come un leone e suonò con forza la sua conchiglia.</p>
+<p class="translation translation-it" data-lang="it">Per rincuorarlo, l’anziano <span class="glossary-term" tabindex="0" data-gloss="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all’intera dinastia o allo schieramento Kaurava." aria-label="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all’intera dinastia o allo schieramento Kaurava." title="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all’intera dinastia o allo schieramento Kaurava." data-glossary-id="kuru">Kuru</span>, il possente avo, ruggì come un leone e suonò con forza la sua conchiglia.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">तस्य सञ्जनयन्हर्षं कुरुवृद्धः पितामहः ।<br>
@@ -188,7 +188,7 @@ Then run:
 <a class="ref" href="#v-1-13">1.13</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Allora conchiglie, tamburi, timpani e corni risuonarono d&#x27;un tratto, e il fragore fu tumultuoso.</p>
+<p class="translation translation-it" data-lang="it">Allora conchiglie, tamburi, timpani e corni risuonarono d’un tratto, e il fragore fu tumultuoso.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः ।<br>
@@ -227,7 +227,7 @@ Then run:
 <a class="ref" href="#v-1-16">1.16</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Il re Yudhishthira, figlio di Kunti, suonò l&#x27;Anantavijaya; Nakula e Sahadeva, rispettivamente la Sughosha e la Manipushpaka.</p>
+<p class="translation translation-it" data-lang="it">Il re Yudhishthira, figlio di Kunti, suonò l’Anantavijaya; Nakula e Sahadeva, rispettivamente la Sughosha e la Manipushpaka.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः ।<br>
@@ -240,7 +240,7 @@ Then run:
 <a class="ref" href="#v-1-17">1.17</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Il re di Kashi, arciere supremo, e Shikhandin, il grande guerriero sul carro; Dhrishtadyumna, Virata e l&#x27;invitto Satyaki.</p>
+<p class="translation translation-it" data-lang="it">Il re di Kashi, arciere supremo, e Shikhandin, il grande guerriero sul carro; Dhrishtadyumna, Virata e l’invitto Satyaki.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">काश्यश्च परमेष्वासः शिखण्डी च महारथः ।<br>
@@ -279,7 +279,7 @@ Then run:
 <a class="ref" href="#v-1-20">1.20</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Allora, vedendo schierati i figli di <span class="glossary-term" tabindex="0" data-gloss="Il re cieco dei Kuru, padre dei Kaurava; apre il dialogo chiedendo a Sanjaya che cosa sia accaduto a Kurukshetra." aria-label="Il re cieco dei Kuru, padre dei Kaurava; apre il dialogo chiedendo a Sanjaya che cosa sia accaduto a Kurukshetra." title="Il re cieco dei Kuru, padre dei Kaurava; apre il dialogo chiedendo a Sanjaya che cosa sia accaduto a Kurukshetra." data-glossary-id="dhritarashtra">Dhritarashtra</span>, mentre lo scontro stava per iniziare, il <span class="glossary-term" tabindex="0" data-gloss="Uno dei figli o discendenti di Pandu; spesso si riferisce ad Arjuna e ai suoi fratelli." aria-label="Uno dei figli o discendenti di Pandu; spesso si riferisce ad Arjuna e ai suoi fratelli." title="Uno dei figli o discendenti di Pandu; spesso si riferisce ad Arjuna e ai suoi fratelli." data-glossary-id="pandava">Pandava</span> il cui vessillo portava l&#x27;effigie della scimmia impugnò l&#x27;arco</p>
+<p class="translation translation-it" data-lang="it">Allora, vedendo schierati i figli di <span class="glossary-term" tabindex="0" data-gloss="Il re cieco dei Kuru, padre dei Kaurava; apre il dialogo chiedendo a Sanjaya che cosa sia accaduto a Kurukshetra." aria-label="Il re cieco dei Kuru, padre dei Kaurava; apre il dialogo chiedendo a Sanjaya che cosa sia accaduto a Kurukshetra." title="Il re cieco dei Kuru, padre dei Kaurava; apre il dialogo chiedendo a Sanjaya che cosa sia accaduto a Kurukshetra." data-glossary-id="dhritarashtra">Dhritarashtra</span>, mentre lo scontro stava per iniziare, il <span class="glossary-term" tabindex="0" data-gloss="Uno dei figli o discendenti di Pandu; spesso si riferisce ad Arjuna e ai suoi fratelli." aria-label="Uno dei figli o discendenti di Pandu; spesso si riferisce ad Arjuna e ai suoi fratelli." title="Uno dei figli o discendenti di Pandu; spesso si riferisce ad Arjuna e ai suoi fratelli." data-glossary-id="pandava">Pandava</span> il cui vessillo portava l’effigie della scimmia impugnò l’arco</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान् कपिध्वजः ।<br>
@@ -344,7 +344,7 @@ Then run:
 <a class="ref" href="#v-1-25">1.25</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-it" data-lang="it">dinanzi a <span class="glossary-term" tabindex="0" data-gloss="Anziano della dinastia Kuru e guerriero di primo piano nello schieramento Kaurava." aria-label="Anziano della dinastia Kuru e guerriero di primo piano nello schieramento Kaurava." title="Anziano della dinastia Kuru e guerriero di primo piano nello schieramento Kaurava." data-glossary-id="bhishma">Bhishma</span>, <span class="glossary-term" tabindex="0" data-gloss="Maestro dei principi Kuru e guerriero nello schieramento Kaurava." aria-label="Maestro dei principi Kuru e guerriero nello schieramento Kaurava." title="Maestro dei principi Kuru e guerriero nello schieramento Kaurava." data-glossary-id="drona">Drona</span> e a tutti i sovrani della terra, e disse: «O <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>, guarda questi <span class="glossary-term" tabindex="0" data-gloss="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all&#x27;intera dinastia o allo schieramento Kaurava." aria-label="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all&#x27;intera dinastia o allo schieramento Kaurava." title="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all&#x27;intera dinastia o allo schieramento Kaurava." data-glossary-id="kuru">Kuru</span> qui raccolti».</p>
+<p class="translation translation-it" data-lang="it">dinanzi a <span class="glossary-term" tabindex="0" data-gloss="Anziano della dinastia Kuru e guerriero di primo piano nello schieramento Kaurava." aria-label="Anziano della dinastia Kuru e guerriero di primo piano nello schieramento Kaurava." title="Anziano della dinastia Kuru e guerriero di primo piano nello schieramento Kaurava." data-glossary-id="bhishma">Bhishma</span>, <span class="glossary-term" tabindex="0" data-gloss="Maestro dei principi Kuru e guerriero nello schieramento Kaurava." aria-label="Maestro dei principi Kuru e guerriero nello schieramento Kaurava." title="Maestro dei principi Kuru e guerriero nello schieramento Kaurava." data-glossary-id="drona">Drona</span> e a tutti i sovrani della terra, e disse: «O <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>, guarda questi <span class="glossary-term" tabindex="0" data-gloss="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all’intera dinastia o allo schieramento Kaurava." aria-label="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all’intera dinastia o allo schieramento Kaurava." title="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all’intera dinastia o allo schieramento Kaurava." data-glossary-id="kuru">Kuru</span> qui raccolti».</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम् ।<br>
@@ -383,7 +383,7 @@ Then run:
 <a class="ref" href="#v-1-28">1.28</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">il figlio di Kunti fu sopraffatto da profonda compassione e, addolorato, disse: Vedendo la mia gente, <span class="glossary-term" tabindex="0" data-gloss="Krishna, che espone l&#x27;insegnamento ad Arjuna." aria-label="Krishna, che espone l&#x27;insegnamento ad Arjuna." title="Krishna, che espone l&#x27;insegnamento ad Arjuna." data-glossary-id="krishna">Krishna</span>, qui raccolta e desiderosa di combattere,</p>
+<p class="translation translation-it" data-lang="it">il figlio di Kunti fu sopraffatto da profonda compassione e, addolorato, disse: Vedendo la mia gente, <span class="glossary-term" tabindex="0" data-gloss="Krishna, che espone l’insegnamento ad Arjuna." aria-label="Krishna, che espone l’insegnamento ad Arjuna." title="Krishna, che espone l’insegnamento ad Arjuna." data-glossary-id="krishna">Krishna</span>, qui raccolta e desiderosa di combattere,</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">कृपया परयाविष्टो विषीदन्निदमब्रवीत् ।<br>
@@ -422,7 +422,7 @@ Then run:
 <a class="ref" href="#v-1-31">1.31</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">E vedo presagi avversi, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Krishna." aria-label="Epiteto di Krishna." title="Epiteto di Krishna." data-glossary-id="keshava">Keshava</span>; non vedo alcun bene nell&#x27;uccidere la mia gente in battaglia.</p>
+<p class="translation translation-it" data-lang="it">E vedo presagi avversi, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Krishna." aria-label="Epiteto di Krishna." title="Epiteto di Krishna." data-glossary-id="keshava">Keshava</span>; non vedo alcun bene nell’uccidere la mia gente in battaglia.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">निमित्तानि च पश्यामि विपरीतानि केशव ।<br>
@@ -435,7 +435,7 @@ Then run:
 <a class="ref" href="#v-1-32">1.32</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Non bramo la vittoria, <span class="glossary-term" tabindex="0" data-gloss="Krishna, che espone l&#x27;insegnamento ad Arjuna." aria-label="Krishna, che espone l&#x27;insegnamento ad Arjuna." title="Krishna, che espone l&#x27;insegnamento ad Arjuna." data-glossary-id="krishna">Krishna</span>, né il regno, né i piaceri. A che ci giova un regno, <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Krishna." aria-label="Epiteto di Krishna." title="Epiteto di Krishna." data-glossary-id="govinda">Govinda</span>, o i godimenti, o la vita stessa?</p>
+<p class="translation translation-it" data-lang="it">Non bramo la vittoria, <span class="glossary-term" tabindex="0" data-gloss="Krishna, che espone l’insegnamento ad Arjuna." aria-label="Krishna, che espone l’insegnamento ad Arjuna." title="Krishna, che espone l’insegnamento ad Arjuna." data-glossary-id="krishna">Krishna</span>, né il regno, né i piaceri. A che ci giova un regno, <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Krishna." aria-label="Epiteto di Krishna." title="Epiteto di Krishna." data-glossary-id="govinda">Govinda</span>, o i godimenti, o la vita stessa?</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च ।<br>
@@ -487,7 +487,7 @@ Then run:
 <a class="ref" href="#v-1-36">1.36</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Che gioia ne avremmo, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Krishna." aria-label="Epiteto di Krishna." title="Epiteto di Krishna." data-glossary-id="janardana">Janardana</span>, nell&#x27;uccidere i figli di <span class="glossary-term" tabindex="0" data-gloss="Il re cieco dei Kuru, padre dei Kaurava; apre il dialogo chiedendo a Sanjaya che cosa sia accaduto a Kurukshetra." aria-label="Il re cieco dei Kuru, padre dei Kaurava; apre il dialogo chiedendo a Sanjaya che cosa sia accaduto a Kurukshetra." title="Il re cieco dei Kuru, padre dei Kaurava; apre il dialogo chiedendo a Sanjaya che cosa sia accaduto a Kurukshetra." data-glossary-id="dhritarashtra">Dhritarashtra</span>? Uccidendo questi aggressori, su di noi ricadrebbe soltanto il peccato.</p>
+<p class="translation translation-it" data-lang="it">Che gioia ne avremmo, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Krishna." aria-label="Epiteto di Krishna." title="Epiteto di Krishna." data-glossary-id="janardana">Janardana</span>, nell’uccidere i figli di <span class="glossary-term" tabindex="0" data-gloss="Il re cieco dei Kuru, padre dei Kaurava; apre il dialogo chiedendo a Sanjaya che cosa sia accaduto a Kurukshetra." aria-label="Il re cieco dei Kuru, padre dei Kaurava; apre il dialogo chiedendo a Sanjaya che cosa sia accaduto a Kurukshetra." title="Il re cieco dei Kuru, padre dei Kaurava; apre il dialogo chiedendo a Sanjaya che cosa sia accaduto a Kurukshetra." data-glossary-id="dhritarashtra">Dhritarashtra</span>? Uccidendo questi aggressori, su di noi ricadrebbe soltanto il peccato.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन ।<br>
@@ -513,7 +513,7 @@ Then run:
 <a class="ref" href="#v-1-38">1.38</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Anche se costoro, accecati dall&#x27;avidità, non vedono colpa nella rovina di una famiglia né delitto nel tradimento degli amici,</p>
+<p class="translation translation-it" data-lang="it">Anche se costoro, accecati dall’avidità, non vedono colpa nella rovina di una famiglia né delitto nel tradimento degli amici,</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">यद्यप्येते न पश्यन्ति लोभोपहतचेतसः ।<br>
@@ -539,7 +539,7 @@ Then run:
 <a class="ref" href="#v-1-40">1.40</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Quando una famiglia va in rovina, periscono gli antichi <span class="glossary-term" tabindex="0" data-gloss="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." aria-label="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." title="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." data-glossary-id="dharma">dharma</span> che la sostengono; e quando il <span class="glossary-term" tabindex="0" data-gloss="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." aria-label="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." title="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." data-glossary-id="dharma">dharma</span> perisce, l&#x27;adharma sopraffà l&#x27;intera famiglia.</p>
+<p class="translation translation-it" data-lang="it">Quando una famiglia va in rovina, periscono gli antichi <span class="glossary-term" tabindex="0" data-gloss="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." aria-label="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." title="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." data-glossary-id="dharma">dharma</span> che la sostengono; e quando il <span class="glossary-term" tabindex="0" data-gloss="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." aria-label="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." title="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." data-glossary-id="dharma">dharma</span> perisce, l’adharma sopraffà l’intera famiglia.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः ।<br>
@@ -552,7 +552,7 @@ Then run:
 <a class="ref" href="#v-1-41">1.41</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Quando prevale l&#x27;adharma, o <span class="glossary-term" tabindex="0" data-gloss="Krishna, che espone l&#x27;insegnamento ad Arjuna." aria-label="Krishna, che espone l&#x27;insegnamento ad Arjuna." title="Krishna, che espone l&#x27;insegnamento ad Arjuna." data-glossary-id="krishna">Krishna</span>, le donne della famiglia si corrompono; e quando le donne si corrompono, o Varshneya, nasce la mescolanza degli ordini sociali.</p>
+<p class="translation translation-it" data-lang="it">Quando prevale l’adharma, o <span class="glossary-term" tabindex="0" data-gloss="Krishna, che espone l’insegnamento ad Arjuna." aria-label="Krishna, che espone l’insegnamento ad Arjuna." title="Krishna, che espone l’insegnamento ad Arjuna." data-glossary-id="krishna">Krishna</span>, le donne della famiglia si corrompono; e quando le donne si corrompono, o Varshneya, nasce la mescolanza degli ordini sociali.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः ।<br>
@@ -565,7 +565,7 @@ Then run:
 <a class="ref" href="#v-1-42">1.42</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Questa mescolanza trascina all&#x27;inferno la famiglia e coloro che la distruggono; i loro antenati precipitano, privati delle offerte di riso e d&#x27;acqua.</p>
+<p class="translation translation-it" data-lang="it">Questa mescolanza trascina all’inferno la famiglia e coloro che la distruggono; i loro antenati precipitano, privati delle offerte di riso e d’acqua.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">सङ्करो नरकायैव कुलघ्नानां कुलस्य च ।<br>
@@ -591,7 +591,7 @@ Then run:
 <a class="ref" href="#v-1-44">1.44</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">E abbiamo udito, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Krishna." aria-label="Epiteto di Krishna." title="Epiteto di Krishna." data-glossary-id="janardana">Janardana</span>, che per coloro i cui <span class="glossary-term" tabindex="0" data-gloss="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." aria-label="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." title="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." data-glossary-id="dharma">dharma</span> familiari sono distrutti è certa una dimora nell&#x27;inferno.</p>
+<p class="translation translation-it" data-lang="it">E abbiamo udito, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Krishna." aria-label="Epiteto di Krishna." title="Epiteto di Krishna." data-glossary-id="janardana">Janardana</span>, che per coloro i cui <span class="glossary-term" tabindex="0" data-gloss="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." aria-label="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." title="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." data-glossary-id="dharma">dharma</span> familiari sono distrutti è certa una dimora nell’inferno.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन ।<br>

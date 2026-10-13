@@ -34,7 +34,7 @@ format:
     include-before-body: pdf/cover-en.tex
 ---
 
-This English version was prepared from Google Translate output and revised using GPT-5.4/5.5/5.6 and Claude Opus 4.8/5.0, along with some manual editing. The aim was to produce an English translation that is readable, unbiased, and as literal as possible.
+This English version was prepared from Google Translate output and revised using GPT-5.4/5.5/5.6 and Claude Opus 4.8/5.0/5.5, along with some manual editing. The aim was to produce an English translation that is readable, unbiased, and as literal as possible.
 
 \vspace{0.2em}
 
@@ -43,7 +43,7 @@ The Bhagavad Gita is part of the Mahabharata, Book 6, the Bhishma Parva, chapter
 \clearpage
 
 \clearpage
-# Chapter 1 - Arjuna Vishada Yoga
+# Chapter 1 – Arjuna Vishada Yoga
 
 \begingroup
 \setlength{\parindent}{0pt}
@@ -375,7 +375,7 @@ Having spoken thus on the field of battle, Arjuna sank down upon the seat of the
 \vspace{0.42em}
 
 \clearpage
-# Chapter 2 - Sankhya Yoga
+# Chapter 2 – Sankhya Yoga
 
 \begingroup
 \setlength{\parindent}{0pt}
@@ -882,7 +882,7 @@ This is the state of Brahman, O Partha; reaching it, one is no longer deluded. E
 \vspace{0.42em}
 
 \clearpage
-# Chapter 3 - Karma Yoga
+# Chapter 3 – Karma Yoga
 
 \begingroup
 \setlength{\parindent}{0pt}
@@ -1186,7 +1186,7 @@ Thus knowing it to be higher than the understanding, and steadying the self by t
 \vspace{0.42em}
 
 \clearpage
-# Chapter 4 - Jnana-Karma-Sannyasa Yoga
+# Chapter 4 – Jnana-Karma-Sannyasa Yoga
 
 \begingroup
 \setlength{\parindent}{0pt}
@@ -1483,7 +1483,7 @@ Therefore, with the sword of knowledge cut away this doubt in your heart, born o
 \vspace{0.42em}
 
 \clearpage
-# Chapter 5 - Sannyasa Yoga
+# Chapter 5 – Sannyasa Yoga
 
 \begingroup
 \setlength{\parindent}{0pt}
@@ -1689,7 +1689,7 @@ Knowing me as the enjoyer of sacrifices and austerities, the great lord of all t
 \vspace{0.42em}
 
 \clearpage
-# Chapter 6 - Atma-Samyama Yoga
+# Chapter 6 – Atma-Samyama Yoga
 
 \begingroup
 \setlength{\parindent}{0pt}
@@ -2021,7 +2021,7 @@ And of all yogins, the one who, full of faith, worships me with his inmost self 
 \vspace{0.42em}
 
 \clearpage
-# Chapter 7 - Jnana-Vijnana Yoga
+# Chapter 7 – Jnana-Vijnana Yoga
 
 \begingroup
 \setlength{\parindent}{0pt}
@@ -2234,7 +2234,7 @@ Those who know me together with the material domain, the divine principle, and t
 \vspace{0.42em}
 
 \clearpage
-# Chapter 8 - Akshara-Brahma Yoga
+# Chapter 8 – Akshara-Brahma Yoga
 
 \begingroup
 \setlength{\parindent}{0pt}
@@ -2433,7 +2433,7 @@ The yogin who knows all this passes beyond whatever fruit of merit is laid down 
 \vspace{0.42em}
 
 \clearpage
-# Chapter 9 - Raja-Vidya Raja-Guhya Yoga
+# Chapter 9 – Raja-Vidya Raja-Guhya Yoga
 
 \begingroup
 \setlength{\parindent}{0pt}
@@ -2466,7 +2466,7 @@ By me, in my unmanifest form, this whole world is pervaded; all beings dwell in 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{9.5} \textit{(Krishna)}\par
-And yet beings do not dwell in me—behold my sovereign yoga! Sustaining beings, yet not dwelling in them, my self is what brings beings into being.
+And yet, in truth, beings do not dwell in me: behold my sovereign yoga! I sustain beings without dwelling in them; my self brings beings into being.
 \par\endgroup
 \vspace{0.42em}
 
@@ -2674,7 +2674,7 @@ Fix your mind on me, be devoted to me, sacrifice to me, bow before me; so, yokin
 \vspace{0.42em}
 
 \clearpage
-# Chapter 10 - Vibhuti Yoga
+# Chapter 10 – Vibhuti Yoga
 
 \begingroup
 \setlength{\parindent}{0pt}
@@ -2971,7 +2971,7 @@ But what need have you to know all this in detail, Arjuna? I stand supporting th
 \vspace{0.42em}
 
 \clearpage
-# Chapter 11 - Vishvarupa-Darshana Yoga
+# Chapter 11 – Vishvarupa-Darshana Yoga
 
 \begingroup
 \setlength{\parindent}{0pt}
@@ -3359,7 +3359,7 @@ He who does his work for me, who holds me as the highest, devoted to me, free of
 \vspace{0.42em}
 
 \clearpage
-# Chapter 12 - Bhakti Yoga
+# Chapter 12 – Bhakti Yoga
 
 \begingroup
 \setlength{\parindent}{0pt}
@@ -3502,7 +3502,7 @@ But those who honor this nectar of dharma, as I have told it, full of faith and 
 \vspace{0.42em}
 
 \clearpage
-# Chapter 13 - Kshetra-Kshetrajna Vibhaga Yoga
+# Chapter 13 – Kshetra-Kshetrajna Vibhaga Yoga
 
 \begingroup
 \setlength{\parindent}{0pt}
@@ -3750,7 +3750,7 @@ Those who, with the eye of knowledge, thus discern the difference between kshetr
 \vspace{0.42em}
 
 \clearpage
-# Chapter 14 - Guna-Traya Vibhaga Yoga
+# Chapter 14 – Guna-Traya Vibhaga Yoga
 
 \begingroup
 \setlength{\parindent}{0pt}
@@ -3942,7 +3942,7 @@ For I am the ground of Brahman, of the deathless and imperishable, of eternal dh
 \vspace{0.42em}
 
 \clearpage
-# Chapter 15 - Purushottama Yoga
+# Chapter 15 – Purushottama Yoga
 
 \begingroup
 \setlength{\parindent}{0pt}
@@ -4085,7 +4085,7 @@ Thus I have taught you this most secret teaching, O blameless one; knowing it, o
 \vspace{0.42em}
 
 \clearpage
-# Chapter 16 - Daivasura-Sampad Vibhaga Yoga
+# Chapter 16 – Daivasura-Sampad Vibhaga Yoga
 
 \begingroup
 \setlength{\parindent}{0pt}
@@ -4256,7 +4256,7 @@ Therefore let scripture be your measure in deciding what should and should not b
 \vspace{0.42em}
 
 \clearpage
-# Chapter 17 - Shraddha-Traya Vibhaga Yoga
+# Chapter 17 – Shraddha-Traya Vibhaga Yoga
 
 \begingroup
 \setlength{\parindent}{0pt}
@@ -4455,7 +4455,7 @@ Whatever is offered or given or done as austerity without faith is called 'Asat,
 \vspace{0.42em}
 
 \clearpage
-# Chapter 18 - Moksha-Sannyasa Yoga
+# Chapter 18 – Moksha-Sannyasa Yoga
 
 \begingroup
 \setlength{\parindent}{0pt}

@@ -1,5 +1,5 @@
 ---
-title: "Capitolo 17 - Shraddha-Traya Vibhaga Yoga"
+title: "Capitolo 17 – Shraddha-Traya Vibhaga Yoga"
 lang: it
 pagetitle: "Capitolo 17 — Shraddha-Traya Vibhaga Yoga — Bhagavad Gita | Enrico Toffalini"
 title-prefix: ""
@@ -32,7 +32,7 @@ Then run:
 <a class="ref" href="#v-17-1">17.1</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Coloro che, mettendo da parte la norma delle scritture, venerano tuttavia con fede—qual è la loro condizione, o <span class="glossary-term" tabindex="0" data-gloss="Krishna, che espone l&#x27;insegnamento ad Arjuna." aria-label="Krishna, che espone l&#x27;insegnamento ad Arjuna." title="Krishna, che espone l&#x27;insegnamento ad Arjuna." data-glossary-id="krishna">Krishna</span>? <span class="glossary-term" tabindex="0" data-gloss="Il guna associato a chiarezza, equilibrio e illuminazione." aria-label="Il guna associato a chiarezza, equilibrio e illuminazione." title="Il guna associato a chiarezza, equilibrio e illuminazione." data-glossary-id="sattva">Sattva</span>, <span class="glossary-term" tabindex="0" data-gloss="Il guna associato ad attività, passione, impulso e irrequietezza." aria-label="Il guna associato ad attività, passione, impulso e irrequietezza." title="Il guna associato ad attività, passione, impulso e irrequietezza." data-glossary-id="rajas">rajas</span> o <span class="glossary-term" tabindex="0" data-gloss="Il guna associato a inerzia, ottusità, confusione e ostruzione." aria-label="Il guna associato a inerzia, ottusità, confusione e ostruzione." title="Il guna associato a inerzia, ottusità, confusione e ostruzione." data-glossary-id="tamas">tamas</span>?</p>
+<p class="translation translation-it" data-lang="it">Coloro che, mettendo da parte la norma delle scritture, venerano tuttavia con fede—qual è la loro condizione, o <span class="glossary-term" tabindex="0" data-gloss="Krishna, che espone l’insegnamento ad Arjuna." aria-label="Krishna, che espone l’insegnamento ad Arjuna." title="Krishna, che espone l’insegnamento ad Arjuna." data-glossary-id="krishna">Krishna</span>? <span class="glossary-term" tabindex="0" data-gloss="Il guna associato a chiarezza, equilibrio e illuminazione." aria-label="Il guna associato a chiarezza, equilibrio e illuminazione." title="Il guna associato a chiarezza, equilibrio e illuminazione." data-glossary-id="sattva">Sattva</span>, <span class="glossary-term" tabindex="0" data-gloss="Il guna associato ad attività, passione, impulso e irrequietezza." aria-label="Il guna associato ad attività, passione, impulso e irrequietezza." title="Il guna associato ad attività, passione, impulso e irrequietezza." data-glossary-id="rajas">rajas</span> o <span class="glossary-term" tabindex="0" data-gloss="Il guna associato a inerzia, ottusità, confusione e ostruzione." aria-label="Il guna associato a inerzia, ottusità, confusione e ostruzione." title="Il guna associato a inerzia, ottusità, confusione e ostruzione." data-glossary-id="tamas">tamas</span>?</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">ये शास्त्रविधिमुत्सृज्य यजन्ते श्रद्धयान्विताः ।<br>
@@ -58,7 +58,7 @@ Then run:
 <a class="ref" href="#v-17-3">17.3</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">La fede di ciascuno, o <span class="glossary-term" tabindex="0" data-gloss="Nome dinastico o ancestrale, spesso usato come appellativo." aria-label="Nome dinastico o ancestrale, spesso usato come appellativo." title="Nome dinastico o ancestrale, spesso usato come appellativo." data-glossary-id="bharata">Bharata</span>, si accorda con la sua natura; l&#x27;uomo è plasmato dalla propria fede: quale è la sua fede, tale egli diviene.</p>
+<p class="translation translation-it" data-lang="it">La fede di ciascuno, o <span class="glossary-term" tabindex="0" data-gloss="Nome dinastico o ancestrale, spesso usato come appellativo." aria-label="Nome dinastico o ancestrale, spesso usato come appellativo." title="Nome dinastico o ancestrale, spesso usato come appellativo." data-glossary-id="bharata">Bharata</span>, si accorda con la sua natura; l’uomo è plasmato dalla propria fede: quale è la sua fede, tale egli diviene.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत ।<br>
@@ -97,7 +97,7 @@ Then run:
 <a class="ref" href="#v-17-6">17.6</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">tormentando nella loro follia l&#x27;insieme degli elementi che compongono il corpo, e anche me che vi dimoro—sappili animati da una risoluzione demoniaca.</p>
+<p class="translation translation-it" data-lang="it">tormentando nella loro follia l’insieme degli elementi che compongono il corpo, e anche me che vi dimoro—sappili animati da una risoluzione demoniaca.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">कर्षयन्तः शरीरस्थं भूतग्राममचेतसः ।<br>
@@ -136,7 +136,7 @@ Then run:
 <a class="ref" href="#v-17-9">17.9</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">I cibi amari, acidi, salati, molto caldi, piccanti, aspri e brucianti sono desiderati dai <span class="glossary-term" tabindex="0" data-gloss="Il guna associato ad attività, passione, impulso e irrequietezza." aria-label="Il guna associato ad attività, passione, impulso e irrequietezza." title="Il guna associato ad attività, passione, impulso e irrequietezza." data-glossary-id="rajas">rajasici</span> e portano dolore, afflizione e malattia.</p>
+<p class="translation translation-it" data-lang="it">I cibi amari, acidi, salati, molto caldi, piccanti, secchi e brucianti sono desiderati dai <span class="glossary-term" tabindex="0" data-gloss="Il guna associato ad attività, passione, impulso e irrequietezza." aria-label="Il guna associato ad attività, passione, impulso e irrequietezza." title="Il guna associato ad attività, passione, impulso e irrequietezza." data-glossary-id="rajas">rajasici</span> e portano dolore, afflizione e malattia.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">कट्वम्ललवणात्युष्णतीक्ष्णरूक्षविदाहिनः ।<br>
@@ -253,7 +253,7 @@ Then run:
 <a class="ref" href="#v-17-18">17.18</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">L’ascesi praticata per ottenere rispetto, onore e riverenza oppure per ostentazione, è detta quaggiù <span class="glossary-term" tabindex="0" data-gloss="Il guna associato ad attività, passione, impulso e irrequietezza." aria-label="Il guna associato ad attività, passione, impulso e irrequietezza." title="Il guna associato ad attività, passione, impulso e irrequietezza." data-glossary-id="rajas">rajasica</span>—instabile e fuggevole.</p>
+<p class="translation translation-it" data-lang="it">L’ascesi praticata per ottenere rispetto, onore e riverenza oppure per ostentazione è detta quaggiù <span class="glossary-term" tabindex="0" data-gloss="Il guna associato ad attività, passione, impulso e irrequietezza." aria-label="Il guna associato ad attività, passione, impulso e irrequietezza." title="Il guna associato ad attività, passione, impulso e irrequietezza." data-glossary-id="rajas">rajasica</span>—instabile e fuggevole.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">सत्कारमानपूजार्थं तपो दम्भेन चैव यत् ।<br>
@@ -318,7 +318,7 @@ Then run:
 <a class="ref" href="#v-17-23">17.23</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it"><span class="glossary-term" tabindex="0" data-gloss="Sillaba sacra usata come segno conciso dell&#x27;assoluto o del divino." aria-label="Sillaba sacra usata come segno conciso dell&#x27;assoluto o del divino." title="Sillaba sacra usata come segno conciso dell&#x27;assoluto o del divino." data-glossary-id="om">Om</span> <span class="glossary-term" tabindex="0" data-gloss="Formula sacra che significa «Quello», parte dell&#x27;espressione Om Tat Sat." aria-label="Formula sacra che significa «Quello», parte dell&#x27;espressione Om Tat Sat." title="Formula sacra che significa «Quello», parte dell&#x27;espressione Om Tat Sat." data-glossary-id="tat">Tat</span> <span class="glossary-term" tabindex="0" data-gloss="Essere, verità o bontà; in 17.23 parte della formula sacra Om Tat Sat." aria-label="Essere, verità o bontà; in 17.23 parte della formula sacra Om Tat Sat." title="Essere, verità o bontà; in 17.23 parte della formula sacra Om Tat Sat." data-glossary-id="sat">Sat</span>—questa è ritenuta la triplice designazione di <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span>; con questa designazione furono anticamente consacrati i <span class="glossary-term" tabindex="0" data-gloss="Membro della classe sacerdotale o dotta; in sanscrito brāhmaṇa." aria-label="Membro della classe sacerdotale o dotta; in sanscrito brāhmaṇa." title="Membro della classe sacerdotale o dotta; in sanscrito brāhmaṇa." data-glossary-id="brahmin">brahmini</span>, i <span class="glossary-term" tabindex="0" data-gloss="Antichi testi sacri della tradizione vedica." aria-label="Antichi testi sacri della tradizione vedica." title="Antichi testi sacri della tradizione vedica." data-glossary-id="veda">Veda</span> e i sacrifici.</p>
+<p class="translation translation-it" data-lang="it"><span class="glossary-term" tabindex="0" data-gloss="Sillaba sacra usata come segno conciso dell’assoluto o del divino." aria-label="Sillaba sacra usata come segno conciso dell’assoluto o del divino." title="Sillaba sacra usata come segno conciso dell’assoluto o del divino." data-glossary-id="om">Om</span> <span class="glossary-term" tabindex="0" data-gloss="Formula sacra che significa «Quello», parte dell’espressione Om Tat Sat." aria-label="Formula sacra che significa «Quello», parte dell’espressione Om Tat Sat." title="Formula sacra che significa «Quello», parte dell’espressione Om Tat Sat." data-glossary-id="tat">Tat</span> <span class="glossary-term" tabindex="0" data-gloss="Essere, verità o bontà; in 17.23 parte della formula sacra Om Tat Sat." aria-label="Essere, verità o bontà; in 17.23 parte della formula sacra Om Tat Sat." title="Essere, verità o bontà; in 17.23 parte della formula sacra Om Tat Sat." data-glossary-id="sat">Sat</span>—questa è ritenuta la triplice designazione di <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto; in alcuni passi (3.15, 4.32) la parola indica il Veda, in 14.3–4 la natura primordiale (prakriti)." aria-label="La realtà ultima o principio assoluto; in alcuni passi (3.15, 4.32) la parola indica il Veda, in 14.3–4 la natura primordiale (prakriti)." title="La realtà ultima o principio assoluto; in alcuni passi (3.15, 4.32) la parola indica il Veda, in 14.3–4 la natura primordiale (prakriti)." data-glossary-id="brahman">Brahman</span>; con questa designazione furono anticamente consacrati i <span class="glossary-term" tabindex="0" data-gloss="Membro della classe sacerdotale o dotta; in sanscrito brāhmaṇa." aria-label="Membro della classe sacerdotale o dotta; in sanscrito brāhmaṇa." title="Membro della classe sacerdotale o dotta; in sanscrito brāhmaṇa." data-glossary-id="brahmin">brahmini</span>, i <span class="glossary-term" tabindex="0" data-gloss="Antichi testi sacri della tradizione vedica." aria-label="Antichi testi sacri della tradizione vedica." title="Antichi testi sacri della tradizione vedica." data-glossary-id="veda">Veda</span> e i sacrifici.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">ॐतत्सदिति निर्देशो ब्रह्मणस्त्रिविधः स्मृतः ।<br>
@@ -331,7 +331,7 @@ Then run:
 <a class="ref" href="#v-17-24">17.24</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Perciò i conoscitori di <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span> iniziano sempre gli atti prescritti di sacrificio, dono e ascesi pronunciando «<span class="glossary-term" tabindex="0" data-gloss="Sillaba sacra usata come segno conciso dell&#x27;assoluto o del divino." aria-label="Sillaba sacra usata come segno conciso dell&#x27;assoluto o del divino." title="Sillaba sacra usata come segno conciso dell&#x27;assoluto o del divino." data-glossary-id="om">Om</span>».</p>
+<p class="translation translation-it" data-lang="it">Perciò i conoscitori di <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto; in alcuni passi (3.15, 4.32) la parola indica il Veda, in 14.3–4 la natura primordiale (prakriti)." aria-label="La realtà ultima o principio assoluto; in alcuni passi (3.15, 4.32) la parola indica il Veda, in 14.3–4 la natura primordiale (prakriti)." title="La realtà ultima o principio assoluto; in alcuni passi (3.15, 4.32) la parola indica il Veda, in 14.3–4 la natura primordiale (prakriti)." data-glossary-id="brahman">Brahman</span> iniziano sempre gli atti prescritti di sacrificio, dono e ascesi pronunciando «<span class="glossary-term" tabindex="0" data-gloss="Sillaba sacra usata come segno conciso dell’assoluto o del divino." aria-label="Sillaba sacra usata come segno conciso dell’assoluto o del divino." title="Sillaba sacra usata come segno conciso dell’assoluto o del divino." data-glossary-id="om">Om</span>».</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">तस्मादोमित्युदाहृत्य यज्ञदानतपःक्रियाः ।<br>
@@ -344,7 +344,7 @@ Then run:
 <a class="ref" href="#v-17-25">17.25</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Con «<span class="glossary-term" tabindex="0" data-gloss="Formula sacra che significa «Quello», parte dell&#x27;espressione Om Tat Sat." aria-label="Formula sacra che significa «Quello», parte dell&#x27;espressione Om Tat Sat." title="Formula sacra che significa «Quello», parte dell&#x27;espressione Om Tat Sat." data-glossary-id="tat">Tat</span>», e senza cercare frutto, i diversi atti di sacrificio, ascesi e dono sono compiuti da coloro che aspirano alla liberazione.</p>
+<p class="translation translation-it" data-lang="it">Con «<span class="glossary-term" tabindex="0" data-gloss="Formula sacra che significa «Quello», parte dell’espressione Om Tat Sat." aria-label="Formula sacra che significa «Quello», parte dell’espressione Om Tat Sat." title="Formula sacra che significa «Quello», parte dell’espressione Om Tat Sat." data-glossary-id="tat">Tat</span>», e senza cercare frutto, i diversi atti di sacrificio, ascesi e dono sono compiuti da coloro che aspirano alla liberazione.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">तदित्यनभिसन्धाय फलं यज्ञतपःक्रियाः ।<br>

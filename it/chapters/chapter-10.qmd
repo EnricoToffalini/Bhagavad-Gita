@@ -1,5 +1,5 @@
 ---
-title: "Capitolo 10 - Vibhuti Yoga"
+title: "Capitolo 10 – Vibhuti Yoga"
 lang: it
 pagetitle: "Capitolo 10 — Vibhuti Yoga — Bhagavad Gita | Enrico Toffalini"
 title-prefix: ""
@@ -58,7 +58,7 @@ Then run:
 <a class="ref" href="#v-10-3">10.3</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Colui che mi conosce come non nato, senza principio e grande signore dei mondi è, fra i mortali, libero dall&#x27;illusione e sciolto da ogni colpa.</p>
+<p class="translation translation-it" data-lang="it">Colui che mi conosce come non nato, senza principio e grande signore dei mondi è, fra i mortali, libero dall’illusione e sciolto da ogni colpa.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">यो मामजमनादिं च वेत्ति लोकमहेश्वरम् ।<br>
@@ -97,7 +97,7 @@ Then run:
 <a class="ref" href="#v-10-6">10.6</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">I sette grandi veggenti, i quattro antichi e i <span class="glossary-term" tabindex="0" data-gloss="Antico progenitore o legislatore che riceve l&#x27;insegnamento da Vivasvan." aria-label="Antico progenitore o legislatore che riceve l&#x27;insegnamento da Vivasvan." title="Antico progenitore o legislatore che riceve l&#x27;insegnamento da Vivasvan." data-glossary-id="manu">Manu</span>, partecipi della mia natura, nacquero dalla mia mente; da loro sono sorte le creature del mondo.</p>
+<p class="translation translation-it" data-lang="it">I sette grandi veggenti, i quattro antichi e i <span class="glossary-term" tabindex="0" data-gloss="Antico progenitore o legislatore che riceve l’insegnamento da Vivasvan." aria-label="Antico progenitore o legislatore che riceve l’insegnamento da Vivasvan." title="Antico progenitore o legislatore che riceve l’insegnamento da Vivasvan." data-glossary-id="manu">Manu</span>, partecipi della mia natura, nacquero dalla mia mente; da loro sono sorte le creature del mondo.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">महर्षयः सप्त पूर्वे चत्वारो मनवस्तथा ।<br>
@@ -149,7 +149,7 @@ Then run:
 <a class="ref" href="#v-10-10">10.10</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">A costoro, sempre uniti a me e che mi venerano con amore, dono quella comprensione disciplinata che li conduce a me.</p>
+<p class="translation translation-it" data-lang="it">A costoro, sempre uniti a me e che mi venerano con amore, dono quello <span class="glossary-term" tabindex="0" data-gloss="Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj)." aria-label="Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj)." title="Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj)." data-glossary-id="yoga">yoga</span> della comprensione mediante il quale giungono a me.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">तेषां सततयुक्तानां भजतां प्रीतिपूर्वकम् ।<br>
@@ -175,7 +175,7 @@ Then run:
 <a class="ref" href="#v-10-12">10.12</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Tu sei il <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span> supremo, la dimora suprema, il supremo purificatore; l’eterna persona divina, il dio primordiale, non nato e onnipresente.</p>
+<p class="translation translation-it" data-lang="it">Tu sei il <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto; in alcuni passi (3.15, 4.32) la parola indica il Veda, in 14.3–4 la natura primordiale (prakriti)." aria-label="La realtà ultima o principio assoluto; in alcuni passi (3.15, 4.32) la parola indica il Veda, in 14.3–4 la natura primordiale (prakriti)." title="La realtà ultima o principio assoluto; in alcuni passi (3.15, 4.32) la parola indica il Veda, in 14.3–4 la natura primordiale (prakriti)." data-glossary-id="brahman">Brahman</span> supremo, la dimora suprema, il supremo purificatore; l’eterna persona divina, il dio primordiale, non nato e onnipresente.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">परं ब्रह्म परं धाम पवित्रं परमं भवान् ।<br>
@@ -214,7 +214,7 @@ Then run:
 <a class="ref" href="#v-10-15">10.15</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Tu solo conosci pienamente te stesso, o <span class="glossary-term" tabindex="0" data-gloss="La Persona Suprema: epiteto di Krishna che indica la realtà suprema che trascende sia il perituro sia l&#x27;imperituro" aria-label="La Persona Suprema: epiteto di Krishna che indica la realtà suprema che trascende sia il perituro sia l&#x27;imperituro" title="La Persona Suprema: epiteto di Krishna che indica la realtà suprema che trascende sia il perituro sia l&#x27;imperituro" data-glossary-id="purushottama">Purushottama</span>—origine degli esseri, signore degli esseri, dio degli dèi, signore del mondo.</p>
+<p class="translation translation-it" data-lang="it">Tu solo conosci pienamente te stesso, o <span class="glossary-term" tabindex="0" data-gloss="La persona suprema: epiteto di Krishna che indica la realtà suprema, al di là sia del perituro sia dell’imperituro." aria-label="La persona suprema: epiteto di Krishna che indica la realtà suprema, al di là sia del perituro sia dell’imperituro." title="La persona suprema: epiteto di Krishna che indica la realtà suprema, al di là sia del perituro sia dell’imperituro." data-glossary-id="purushottama">Purushottama</span>—origine degli esseri, signore degli esseri, dio degli dèi, signore del mondo.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">स्वयमेवात्मनात्मानं वेत्थ त्वं पुरुषोत्तम ।<br>
@@ -240,7 +240,7 @@ Then run:
 <a class="ref" href="#v-10-17">10.17</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Come potrò conoscerti, o <span class="glossary-term" tabindex="0" data-gloss="Praticante dello yoga" aria-label="Praticante dello yoga" title="Praticante dello yoga" data-glossary-id="yogin">yogin</span>, meditandoti di continuo? In quali forme, o <span class="glossary-term" tabindex="0" data-gloss="Titolo onorifico per il Signore o il Beato, usato per Krishna." aria-label="Titolo onorifico per il Signore o il Beato, usato per Krishna." title="Titolo onorifico per il Signore o il Beato, usato per Krishna." data-glossary-id="bhagavan">Bhagavan</span>, devo contemplarti?</p>
+<p class="translation translation-it" data-lang="it">Come potrò conoscerti, o <span class="glossary-term" tabindex="0" data-gloss="Praticante dello yoga." aria-label="Praticante dello yoga." title="Praticante dello yoga." data-glossary-id="yogin">yogin</span>, meditandoti di continuo? In quali forme, o <span class="glossary-term" tabindex="0" data-gloss="Titolo onorifico per il Signore o il Beato, usato per Krishna." aria-label="Titolo onorifico per il Signore o il Beato, usato per Krishna." title="Titolo onorifico per il Signore o il Beato, usato per Krishna." data-glossary-id="bhagavan">Bhagavan</span>, devo contemplarti?</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">कथं विद्यामहं योगिंस्त्वां सदा परिचिन्तयन् ।<br>
@@ -266,7 +266,7 @@ Then run:
 <a class="ref" href="#v-10-19">10.19</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">E sia: ti parlerò delle mie glorie divine—ma soltanto delle principali, o migliore fra i <span class="glossary-term" tabindex="0" data-gloss="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all&#x27;intera dinastia o allo schieramento Kaurava." aria-label="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all&#x27;intera dinastia o allo schieramento Kaurava." title="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all&#x27;intera dinastia o allo schieramento Kaurava." data-glossary-id="kuru">Kuru</span>, poiché la mia estensione non ha fine.</p>
+<p class="translation translation-it" data-lang="it">E sia: ti parlerò delle mie glorie divine—ma soltanto delle principali, o migliore fra i <span class="glossary-term" tabindex="0" data-gloss="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all’intera dinastia o allo schieramento Kaurava." aria-label="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all’intera dinastia o allo schieramento Kaurava." title="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all’intera dinastia o allo schieramento Kaurava." data-glossary-id="kuru">Kuru</span>, poiché la mia estensione non ha fine.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">हन्त ते कथयिष्यामि दिव्या ह्यात्मविभूतयः ।<br>
@@ -279,7 +279,7 @@ Then run:
 <a class="ref" href="#v-10-20">10.20</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Io sono l’<span class="glossary-term" tabindex="0" data-gloss="Vero Sé, anima o principio interiore; tenuto distinto dall&#x27;ego ordinario e dalla personalità individuale." aria-label="Vero Sé, anima o principio interiore; tenuto distinto dall&#x27;ego ordinario e dalla personalità individuale." title="Vero Sé, anima o principio interiore; tenuto distinto dall&#x27;ego ordinario e dalla personalità individuale." data-glossary-id="atman">Atman</span>, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna, comunemente collegato al dominio sul sonno." aria-label="Epiteto di Arjuna, comunemente collegato al dominio sul sonno." title="Epiteto di Arjuna, comunemente collegato al dominio sul sonno." data-glossary-id="gudakesha">Gudakesha</span>, presente nel cuore di tutti gli esseri; sono il principio, il mezzo e la fine degli esseri.</p>
+<p class="translation translation-it" data-lang="it">Io sono l’<span class="glossary-term" tabindex="0" data-gloss="Il vero sé, anima o principio interiore; tenuto distinto dall’ego ordinario e dalla personalità individuale." aria-label="Il vero sé, anima o principio interiore; tenuto distinto dall’ego ordinario e dalla personalità individuale." title="Il vero sé, anima o principio interiore; tenuto distinto dall’ego ordinario e dalla personalità individuale." data-glossary-id="atman">Atman</span>, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna, comunemente collegato al dominio sul sonno." aria-label="Epiteto di Arjuna, comunemente collegato al dominio sul sonno." title="Epiteto di Arjuna, comunemente collegato al dominio sul sonno." data-glossary-id="gudakesha">Gudakesha</span>, presente nel cuore di tutti gli esseri; sono il principio, il mezzo e la fine degli esseri.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">अहमात्मा गुडाकेश सर्वभूताशयस्थितः ।<br>
@@ -331,7 +331,7 @@ Then run:
 <a class="ref" href="#v-10-24">10.24</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Fra i cappellani di corte, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>, sappi che io sono il loro capo, Brihaspati; fra i condottieri sono Skanda; fra le acque, l’oceano.</p>
+<p class="translation translation-it" data-lang="it">Fra i sacerdoti di corte, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>, sappi che io sono il loro capo, Brihaspati; fra i condottieri sono Skanda; fra le acque, l’oceano.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">पुरोधसां च मुख्यं मां विद्धि पार्थ बृहस्पतिम् ।<br>
@@ -344,7 +344,7 @@ Then run:
 <a class="ref" href="#v-10-25">10.25</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Fra i grandi veggenti sono Bhrigu; fra le parole, la sola sillaba <span class="glossary-term" tabindex="0" data-gloss="Sillaba sacra usata come segno conciso dell&#x27;assoluto o del divino." aria-label="Sillaba sacra usata come segno conciso dell&#x27;assoluto o del divino." title="Sillaba sacra usata come segno conciso dell&#x27;assoluto o del divino." data-glossary-id="om">Om</span>; fra i sacrifici, il sacrificio della ripetizione silenziosa; fra le cose immobili, l’Himalaya.</p>
+<p class="translation translation-it" data-lang="it">Fra i grandi veggenti sono Bhrigu; fra le parole, la sola sillaba <span class="glossary-term" tabindex="0" data-gloss="Sillaba sacra usata come segno conciso dell’assoluto o del divino." aria-label="Sillaba sacra usata come segno conciso dell’assoluto o del divino." title="Sillaba sacra usata come segno conciso dell’assoluto o del divino." data-glossary-id="om">Om</span>; fra i sacrifici, il sacrificio della ripetizione silenziosa; fra le cose immobili, l’Himalaya.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">महर्षीणां भृगुरहं गिरामस्म्येकमक्षरम् ।<br>
@@ -357,7 +357,7 @@ Then run:
 <a class="ref" href="#v-10-26">10.26</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Fra tutti gli alberi io sono l&#x27;ashvattha; fra i veggenti divini, Narada; fra i gandharva, Chitraratha; fra i perfetti, il saggio Kapila.</p>
+<p class="translation translation-it" data-lang="it">Fra tutti gli alberi io sono l’ashvattha; fra i veggenti divini, Narada; fra i gandharva, Chitraratha; fra i perfetti, il saggio Kapila.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">अश्वत्थः सर्ववृक्षाणां देवर्षीणां च नारदः ।<br>
@@ -396,7 +396,7 @@ Then run:
 <a class="ref" href="#v-10-29">10.29</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Fra i naga io sono Ananta; fra le creature delle acque, <span class="glossary-term" tabindex="0" data-gloss="Divinità vedica associata all&#x27;ordine cosmico e alle acque." aria-label="Divinità vedica associata all&#x27;ordine cosmico e alle acque." title="Divinità vedica associata all&#x27;ordine cosmico e alle acque." data-glossary-id="varuna">Varuna</span>; fra gli antenati, Aryaman; fra coloro che governano, <span class="glossary-term" tabindex="0" data-gloss="Divinità associata alla morte e alla disciplina." aria-label="Divinità associata alla morte e alla disciplina." title="Divinità associata alla morte e alla disciplina." data-glossary-id="yama">Yama</span>.</p>
+<p class="translation translation-it" data-lang="it">Fra i naga io sono Ananta; fra le creature delle acque, <span class="glossary-term" tabindex="0" data-gloss="Divinità vedica associata all’ordine cosmico e alle acque." aria-label="Divinità vedica associata all’ordine cosmico e alle acque." title="Divinità vedica associata all’ordine cosmico e alle acque." data-glossary-id="varuna">Varuna</span>; fra gli antenati, Aryaman; fra coloro che governano, <span class="glossary-term" tabindex="0" data-gloss="Divinità associata alla morte e alla disciplina." aria-label="Divinità associata alla morte e alla disciplina." title="Divinità associata alla morte e alla disciplina." data-glossary-id="yama">Yama</span>.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">अनन्तश्चास्मि नागानां वरुणो यादसामहम् ।<br>
@@ -448,7 +448,7 @@ Then run:
 <a class="ref" href="#v-10-33">10.33</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Delle lettere sono la «A»; dei composti, il composto copulativo. Sono il Tempo inesauribile e l&#x27;ordinatore che guarda in ogni direzione.</p>
+<p class="translation translation-it" data-lang="it">Delle lettere sono la «A»; dei composti, il composto copulativo. Sono il Tempo inesauribile e l’ordinatore che guarda in ogni direzione.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">अक्षराणामकारोऽस्मि द्वन्द्वः सामासिकस्य च ।<br>
@@ -500,7 +500,7 @@ Then run:
 <a class="ref" href="#v-10-37">10.37</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Fra i Vrishni io sono <span class="glossary-term" tabindex="0" data-gloss="Nome o epiteto di Krishna, figlio di Vasudeva." aria-label="Nome o epiteto di Krishna, figlio di Vasudeva." title="Nome o epiteto di Krishna, figlio di Vasudeva." data-glossary-id="vasudeva">Vasudeva</span>; fra i <span class="glossary-term" tabindex="0" data-gloss="Uno dei figli o discendenti di Pandu; spesso si riferisce ad Arjuna e ai suoi fratelli." aria-label="Uno dei figli o discendenti di Pandu; spesso si riferisce ad Arjuna e ai suoi fratelli." title="Uno dei figli o discendenti di Pandu; spesso si riferisce ad Arjuna e ai suoi fratelli." data-glossary-id="pandava">Pandava</span>, <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." aria-label="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." title="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." data-glossary-id="dhananjaya">Dhananjaya</span>; fra i saggi io sono Vyasa; fra i veggenti, il veggente Ushanas.</p>
+<p class="translation translation-it" data-lang="it">Fra i Vrishni io sono <span class="glossary-term" tabindex="0" data-gloss="Patronimico di Krishna (Vāsudeva, «figlio di Vasudeva»)." aria-label="Patronimico di Krishna (Vāsudeva, «figlio di Vasudeva»)." title="Patronimico di Krishna (Vāsudeva, «figlio di Vasudeva»)." data-glossary-id="vasudeva">Vasudeva</span>; fra i <span class="glossary-term" tabindex="0" data-gloss="Uno dei figli o discendenti di Pandu; spesso si riferisce ad Arjuna e ai suoi fratelli." aria-label="Uno dei figli o discendenti di Pandu; spesso si riferisce ad Arjuna e ai suoi fratelli." title="Uno dei figli o discendenti di Pandu; spesso si riferisce ad Arjuna e ai suoi fratelli." data-glossary-id="pandava">Pandava</span>, <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." aria-label="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." title="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." data-glossary-id="dhananjaya">Dhananjaya</span>; fra i saggi io sono Vyasa; fra i veggenti, il veggente Ushanas.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">वृष्णीनां वासुदेवोऽस्मि पाण्डवानां धनञ्जयः ।<br>
